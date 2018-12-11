@@ -91,27 +91,6 @@ def get_3chargrams(str):
     List = analyze_char(str)
     return List
 
-# average word length in sentence
-def get_averg_wrd_len(str):
-    max_wrd_len = 1
-    min_wrd_len = 20
-    for word in tokenize(str, 'fr'):
-        # minimum word length
-        if len(word) < min_wrd_len:
-            min_wrd_len = len(word)
-        # maximum word length
-        if len(word) > min_wrd_len:
-            max_wrd_len = len(word)
-    # average word length
-    averg_wrd_len = np.mean([len(word) for word in tokenize(str, 'fr')])
-    Averg = []
-    averg_wrd_len = np.mean([len(word) for word in tokenize(str,'fr')])
-    Averg.append(averg_wrd_len)
-    Averg.append(min_wrd_len)
-    Averg.append(max_wrd_len)
-    return Averg
-
-
 ''' Importing data with pandas + cross-validation
 # Last column needs to be the labels '''
 dataset = pd.read_csv(sys.argv[1], header=0, sep=';', encoding="utf-8") #,error_bad_lines=False
@@ -127,7 +106,6 @@ Given a list of features and a corpus (in the pandas dataframe format), it creat
 (output is a list of feature lists for each sentence)
 Possible features are:
    'text': token + freq in sentence
-   'n_wds': number of words in sentence
    '3grams': 3-grams + freq
    '3chargrams': 3-character-grams + freq
    'atc_codes': ATC codes of medical drugs
@@ -147,12 +125,6 @@ def create_model_list(feature_list,corpus):
             for i,_ in enumerate(SentData):
                 for token in Tokens[i]:
                     SentData[i].append(token)
-        # Number of words in sentence
-        elif (feature=="n_wds"):
-            ListNWords = corpus['n_wds'].tolist()
-            for i,_ in enumerate(ListNWords):
-                # Convert integer to string to avoid errors mixing different data types
-                SentData[i].append(str(ListNWords[i]))
         # Feature: 3-grams
         elif (feature=="3grams"):
             List = [get_3grams(row) for row in corpus['text']]
@@ -195,7 +167,6 @@ def create_model_list(feature_list,corpus):
 
 
 ''' Models for NB / MNB '''
-
 
 model_01 = [ 'text', create_model_list(['text'],X_train), create_model_list(['text'],X_test) ]
 Models.append(model_01)
