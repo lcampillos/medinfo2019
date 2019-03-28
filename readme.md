@@ -7,9 +7,9 @@ Only sections Side Effects ('Effets indésirables') and Indications ('Indication
 
 If you use this dataset, please cite as follows:
 
-   [Initial Experiments for Pharmacovigilance Analysis in Social Media using Summaries of Product Characteristics](http://www.aclweb.org/anthology/W17-2343)  
-Leonardo Campillos Llanos, Cyril Grouin, Agnès Lillo-Le Louët, Pierre Zweigenbaum 
-*Proc. of MedInfo 2019*, August 4 2019, Lyon, France.   
+   [Initial Experiments for Pharmacovigilance Analysis in Social Media using Summaries of Product Characteristics](https://medinfo-lyon.org/en/programme/preliminary)  
+Leonardo Campillos Llanos, Cyril Grouin, Agnès Lillo-Le Louët, Pierre Zweigenbaum. 
+*Proc. of MedInfo 2019*, August 25-30, 2019, Lyon, France.   
 
   ```
   @inproceedings{limsi-medinfo2019,   
@@ -18,6 +18,6 @@ Leonardo Campillos Llanos, Cyril Grouin, Agnès Lillo-Le Louët, Pierre Zweigenb
   booktitle = {Proc. of MedInfo 2019},
   location =     {Lyon, France},
   year      = 2019,
-  month     = 25-30 August,
+  month     = August 25-30,
   } 
   ```
