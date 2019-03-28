@@ -3,7 +3,7 @@
 
 Files of Summary of Product Characteristics annotated with BRAT.
 
-Only sections Side Effects (`Effets indésirables') and Indications (`Indications') were revised with BRAT and distributed.
+Only sections Side Effects ('Effets indésirables') and Indications ('Indications') were revised with BRAT. These are the only data here distributed. 
 
 If you use this dataset, please cite as follows:
 
@@ -18,6 +18,6 @@ Leonardo Campillos Llanos, Cyril Grouin, Agnès Lillo-Le Louët, Pierre Zweigenb
   booktitle = {Proc. of MedInfo 2019},
   location =     {Lyon, France},
   year      = 2019,
-  month     = AUG,
+  month     = 25-30 August,
   } 
   ```
