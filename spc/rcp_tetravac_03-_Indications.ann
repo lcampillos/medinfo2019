@@ -1,0 +1,15 @@
+T1	trt 18 24	vaccin
+T2	proc 45 55	prévention
+T3	patho 72 81	diphtérie
+T4	patho 86 93	tétanos
+T5	patho 101 111	coqueluche
+T6	patho 121 133	poliomyélite
+T7	proc 139 155	primovaccination
+T8	age 191 204	âge de 2 mois
+T9	age 220 234	âge de 11 mois
+T10	age 250 262	âge de 6 ans
+T11	age 274 292	entre 11 et 13 ans
+T12	age 331 343	âge de 6 ans
+T13	trt 347 389	vaccin comportant la valence coquelucheuse
+T14	proc 209 215	rappel
+T15	proc 239 245	rappel

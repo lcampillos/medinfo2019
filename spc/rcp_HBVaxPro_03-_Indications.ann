@@ -1,0 +1,12 @@
+T1	trt 15 23	HBVAXPRO
+T2	proc 43 62	immunisation active
+T3	patho 72 81	infection
+T4	patho 128 149	virus de l'hépatite B
+T5	age 192 205	âge de 15 ans
+T6	patho 242 263	virus de l'hépatite B
+T7	proc 299 307	vaccinés
+T8	proc 401 412	vaccination
+T9	trt 418 426	HBVAXPRO
+T10	patho 469 479	hépatite D
+T11	patho 491 501	hépatite D
+T12	patho 563 573	hépatite B

@@ -1,0 +1,5 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 32 41	Pneumovax
+T3	proc 61 80	immunisation active
+T4	patho 92 115	maladies à pneumocoques
+T5	age 145 150	2 ans

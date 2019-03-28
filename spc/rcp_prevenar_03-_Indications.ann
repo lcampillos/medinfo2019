@@ -1,0 +1,24 @@
+T1	proc 15 34	Immunisation active
+T2	proc 43 53	prévention
+T3	patho 58 78	infections invasives
+T4	patho 80 89	pneumonie
+T5	patho 93 112	otite moyenne aiguë
+T6	age 203 230	âgés de 6 semaines à 17 ans
+T8	proc 233 252	Immunisation active
+T9	proc 261 271	prévention
+T10	patho 276 296	infections invasives
+T11	patho 306 315	pneumonie
+T12	trt 588 599	Prevenar 13
+T13	patho 690 710	infections invasives
+T14	patho 720 729	pneumonie
+T15	proc 898 917	Calendrier vaccinal
+T16	age 944 959	âge de deux ans
+T17	patho 1006 1030	infections à pneumocoque
+T18	patho 1053 1073	infections invasives
+T19	patho 1076 1087	pneumocoque
+T20	patho 1108 1118	méningites
+T21	patho 1126 1137	septicémies
+T22	trt 1222 1238	vaccin 23-valent
+T23	duree 1248 1257	deux mois
+T24	trt 1267 1292	vaccin conjugué 13-valent
+T7	age 371 393	âgés de 18 ans et plus

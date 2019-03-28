@@ -1,0 +1,98 @@
+T1	patho 3 22	effets indésirables
+T2	trt 127 133	Hexyon
+T3	patho 139 148	réactions
+T5	patho 223 235	irritabilité
+T6	patho 241 247	Pleurs
+T7	patho 253 281	érythème au site d'injection
+T9	trt 424 430	Hexyon
+T10	age 451 466	plus de 24 mois
+T11	patho 611 630	effets indésirables
+T12	patho 528 547	effets indésirables
+T13	patho 866 885	effets indésirables
+T14	patho 955 988	Affections du système immunitaire
+T15	patho 1004 1031	Réaction d'hypersensibilité
+T16	patho 1039 1062	Réaction anaphylactique
+T17	patho 1064 1106	Troubles du métabolisme et de la nutrition
+T18	patho 1123 1131	Anorexie
+T19	patho 1133 1156	diminution de l'appétit
+T20	patho 1158 1187	Affections du système nerveux
+T21	patho 1204 1210	Pleurs
+T22	patho 1212 1222	somnolence
+T23	patho 1234 1249	Pleurs anormaux
+T24	patho 1251 1257	Pleurs
+T25	patho 1276 1287	Convulsions
+T26	patho 1301 1307	fièvre
+T27	patho 1321 1343	Réactions hypotoniques
+T28	patho 1358 1367	hypotonie
+T29	patho 1391 1421	Affections gastro-intestinales
+T30	patho 1438 1450	Vomissements
+T31	patho 1462 1470	Diarrhée
+T32	patho 1471 1516	Affections de la peau et du tissu sous-cutané
+T33	patho 1524 1540	Eruption cutanée
+T35	patho 1642 1670	érythème au site d'injection
+T37	patho 1672 1698	Oedème au site d'injection
+T39	patho 1700 1712	irritabilité
+T40	patho 1714 1720	fièvre
+T41	patho 1743 1773	Induration au site d'injection
+T43	patho 1817 1823	fièvre
+T44	patho 1842 1848	Oedème
+T45	patho 1869 1888	effets indésirables
+T46	patho 1949 1968	effets indésirables
+T47	patho 1982 1988	Oedème
+T48	patho 2018 2047	réactions au site d'injection
+T50	patho 2074 2080	Oedème
+T51	trt 2120 2129	injection
+T52	patho 2217 2226	réactions
+T53	duree 2249 2251	24
+T54	duree 2254 2263	72 heures
+T55	proc 2273 2284	vaccination
+T56	patho 2335 2343	érythème
+T57	patho 2345 2352	chaleur
+T58	patho 2354 2365	sensibilité
+T60	duree 2445 2452	5 jours
+T61	trt 2509 2562	vaccin contenant la valence coquelucheuse acellulaire
+T62	trt 2726 2733	vaccins
+T63	trt 2777 2783	Hexyon
+T64	trt 2811 2817	Hexyon
+T65	patho 2823 2852	Affections du système nerveux
+T66	patho 2853 2879	Syndrome de Guillain-Barré
+T67	patho 2883 2913	neuropathie du plexus brachial
+T69	trt 2960 3001	vaccin contenant de l'anatoxine tétanique
+T70	patho 3002 3028	Neuropathies périphériques
+T71	patho 3030 3049	polyradiculonévrite
+T72	patho 3051 3068	paralysie faciale
+T73	patho 3071 3086	névrite optique
+T74	patho 3132 3151	sclérose en plaques
+T75	trt 3198 3215	vaccin hépatite B
+T76	patho 3216 3231	Encéphalopathie
+T77	patho 3232 3243	encéphalite
+T78	patho 3248 3302	Affections respiratoires, thoraciques et médiastinales
+T79	patho 3303 3308	Apnée
+T81	patho 3443 3498	Troubles généraux et anomalies au site d'administration
+T82	patho 3503 3525	réactions oedémateuses
+T83	proc 3591 3602	vaccination
+T84	trt 3610 3667	vaccin contenant la valence Haemophilus influenzae type b
+T85	patho 3674 3683	réactions
+T86	proc 3720 3736	primovaccination
+T87	proc 3775 3786	vaccination
+T88	patho 3793 3802	réactions
+T89	patho 3828 3835	cyanose
+T90	patho 3837 3845	érythème
+T91	patho 3847 3854	purpura
+T92	patho 3873 3887	pleurs sévères
+T93	patho 3894 3903	réactions
+T94	duree 3940 3949	24 heures
+T95	patho 3955 3963	séquelle
+T96	patho 3982 4001	effets indésirables
+T97	patho 4031 4050	effets indésirables
+T98	trt 4083 4093	médicament
+T99	proc 4127 4139	surveillance
+T100	trt 4179 4189	médicament
+T101	patho 4235 4252	effet indésirable
+T102	trt 4335 4345	médicament
+T4	patho 192 219	douleur au site d'injection
+T8	patho 1789 1815	nodule au site d'injection
+T34	patho 1613 1640	Douleur au site d'injection
+T36	patho 2369 2396	douleur au site d'injection
+T38	patho 3088 3130	démyélinisation du système nerveux central
+T42	patho 1541 1596	Troubles généraux et anomalies au site d'administration

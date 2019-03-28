@@ -1,0 +1,113 @@
+T1	patho 5 24	effets indésirables
+T3	trt 454 462	PENTAVAC
+T4	trt 691 697	vaccin
+T5	trt 856 864	PENTAVAC
+T6	proc 868 884	primovaccination
+T7	patho 890 899	réactions
+T9	patho 941 978	réactions locales au site d'injection
+T10	patho 984 999	pleurs anormaux
+T11	patho 1005 1017	irritabilité
+T12	patho 1027 1033	Fièvre
+T13	patho 1040 1059	signes et symptômes
+T14	duree 1097 1106	48 heures
+T15	proc 1118 1129	vaccination
+T16	duree 1154 1175	entre 48 et 72 heures
+T17	patho 1255 1284	réactions au site d'injection
+T19	proc 1362 1378	primovaccination
+T20	patho 1381 1414	Affections du système immunitaire
+T21	patho 1415 1424	réactions
+T22	patho 1453 1492	Réactions d'hypersensibilité immédiates
+T23	patho 1503 1520	oedème de la face
+T24	patho 1522 1532	angioedème
+T25	patho 1534 1551	oedème de Quincke
+T26	patho 1553 1562	réactions
+T27	patho 1566 1587	chocs anaphylactiques
+T28	patho 1590 1632	Troubles du métabolisme et de la nutrition
+T29	patho 1633 1642	réactions
+T30	patho 1661 1679	Perte de l'appétit
+T31	patho 1682 1707	Affections psychiatriques
+T32	patho 1708 1717	réactions
+T33	patho 1736 1745	Nervosité
+T34	patho 1747 1759	irritabilité
+T35	patho 1772 1787	pleurs anormaux
+T36	patho 1790 1799	réactions
+T37	patho 1813 1821	Insomnie
+T38	patho 1823 1841	trouble du sommeil
+T39	patho 1844 1853	réactions
+T40	patho 1879 1899	pleurs inconsolables
+T41	patho 1915 1944	Affections du système nerveux
+T42	patho 1945 1954	réactions
+T43	patho 1973 1983	Somnolence
+T44	patho 1986 1995	réactions
+T45	patho 2024 2034	Convulsion
+T46	patho 2048 2054	Fièvre
+T47	patho 2070 2094	hypotonie-hyporéactivité
+T48	patho 2097 2127	Affections gastro-intestinales
+T49	patho 2128 2137	réactions
+T50	patho 2156 2167	Vomissement
+T51	patho 2170 2179	réactions
+T52	patho 2193 2201	Diarrhée
+T53	patho 2204 2249	Affections de la peau et du tissu sous-cutané
+T54	patho 2250 2259	réactions
+T55	patho 2288 2306	Eruptions cutanées
+T56	patho 2308 2316	érythème
+T57	patho 2318 2327	urticaire
+T58	patho 2330 2385	Troubles généraux et anomalies au site d'administration
+T59	patho 2386 2395	réactions
+T61	patho 2447 2453	Fièvre
+T62	patho 2464 2490	OEdème au site d'injection
+T63	patho 2495 2522	Douleur au site d'injection
+T65	patho 2525 2534	réactions
+T67	patho 2581 2590	réactions
+T68	patho 2608 2614	Fièvre
+T69	patho 2625 2632;2650 2669	Rougeur au site d'injection
+T70	patho 2636 2669	OEdème ≥ 5 cm au site d'injection
+T72	patho 2672 2681	réactions
+T73	patho 2690 2696	Fièvre
+T74	patho 2712 2734	réactions oedémateuses
+T75	proc 2800 2811	vaccination
+T76	trt 2819 2885	vaccin contenant la valence Haemophilus influenzae type b conjugué
+T77	patho 2892 2901	réactions
+T78	proc 2938 2954	primovaccination
+T79	proc 2993 3004	vaccination
+T80	patho 3043 3052	séquelles
+T81	duree 3062 3071	24 heures
+T82	patho 3078 3087	réactions
+T83	patho 3113 3120	cyanose
+T84	patho 3122 3130	érythème
+T85	patho 3132 3139	purpura
+T86	patho 3158 3172	pleurs sévères
+T87	patho 3175 3184	réactions
+T88	patho 3220 3250	réactions au point d'injection
+T90	patho 3276 3282	OEdème
+T91	trt 3322 3331	injection
+T92	patho 3386 3395	réactions
+T94	duree 3409 3423	24 à 72 heures
+T95	proc 3433 3444	vaccination
+T96	patho 3493 3501	érythème
+T97	patho 3503 3510	chaleur
+T98	patho 3512 3523	sensibilité
+T100	duree 3593 3604	3 à 5 jours
+T101	trt 3679 3732	vaccin contenant la valence coquelucheuse acellulaire
+T102	patho 3784 3803	effets indésirables
+T103	trt 3874 3882	PENTAVAC
+T104	trt 3903 3910	vaccins
+T105	trt 3970 3978	PENTAVAC
+T106	patho 3984 4010	Syndrome de Guillain-Barré
+T107	patho 4014 4044	neuropathie du plexus brachial
+T109	trt 4073 4111	vaccin contenant l'anatoxine tétanique
+T110	patho 4186 4191	Apnée
+T112	patho 4298 4317	effets indésirables
+T113	patho 4347 4366	effets indésirables
+T114	trt 4399 4409	médicament
+T115	proc 4443 4455	surveillance
+T116	trt 4495 4505	médicament
+T117	patho 4551 4568	effet indésirable
+T118	trt 4651 4661	médicament
+T119	patho 29 48	effets indésirables
+T2	patho 373 396	événements indésirables
+T8	patho 1764 1768;1779 1787	Cris anormaux
+T18	patho 1871 1875;1886 1899	Cris inconsolables
+T60	patho 2414 2442	Erythème au site d'injection
+T64	patho 2548 2578	Induration au site d'injection
+T66	patho 3527 3554	douleur au site d'injection

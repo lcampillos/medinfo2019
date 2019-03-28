@@ -1,0 +1,183 @@
+T1	patho 4 23	effets indésirables
+T2	trt 89 100	M-M-RVAXPRO
+T3	trt 249 292	vaccin rougeoleux, des oreillons, rubéoleux
+T6	trt 374 385	M-M-RVAXPRO
+T7	trt 480 486	vaccin
+T8	patho 582 613	réactions aux sites d'injection
+T10	patho 712 731	effets indésirables
+T11	patho 791 810	effets indésirables
+T12	trt 819 825	vaccin
+T13	proc 899 910	vaccination
+T14	trt 916 927	M-M-RVAXPRO
+T15	trt 1039 1050	M-M-RVAXPRO
+T16	patho 1188 1215	réaction d'hypersensibilité
+T17	patho 1236 1255	effets indésirables
+T18	trt 1296 1307	M-M-RVAXPRO
+T19	trt 1407 1426;1439 1449;1449 1475	vaccins monovalents rougeoleux , des oreillons, rubéoleux
+T22	patho 1735 1754	effets indésirables
+T23	trt 1806 1817	M-M-RVAXPRO
+T24	patho 1825 1831	fièvre
+T25	patho 1851 1880	réactions au site d'injection
+T27	patho 1890 1897	douleur
+T28	patho 1899 1909	gonflement
+T29	patho 1962 1981	effets indésirables
+T30	patho 1938 1957	effets indésirables
+T31	patho 2240 2259	effets indésirables
+T32	patho 2260 2286	Infections et infestations
+T33	patho 2302 2317	rhinopharyngite
+T34	patho 2319 2341	infection respiratoire
+T35	patho 2351 2367	infection virale
+T36	patho 2395 2414	Méningite aseptique
+T37	patho 2434 2451	rougeole atypique
+T38	patho 2453 2464	épididymite
+T39	patho 2466 2473	orchite
+T40	patho 2475 2488	otite moyenne
+T41	patho 2490 2500	parotidite
+T42	patho 2502 2509	rhinite
+T43	patho 2511 2546	panencéphalite sclérosante subaiguë
+T44	patho 2566 2616	Troubles de la circulation sanguine et lymphatique
+T45	patho 2642 2668	lymphadénopathie régionale
+T46	patho 2670 2686	thrombocytopénie
+T47	patho 2689 2720	Troubles du système immunitaire
+T48	patho 2746 2769	réaction anaphylactoïde
+T49	patho 2771 2782	anaphylaxie
+T50	patho 2811 2833	oedème angioneurotique
+T51	patho 2835 2848	oedème facial
+T52	patho 2852 2871	oedème périphérique
+T53	patho 2874 2897	Troubles psychiatriques
+T54	patho 2923 2935	irritabilité
+T55	patho 2938 2965	Troubles du système nerveux
+T56	patho 2991 3014	convulsions apyrétiques
+T57	patho 3018 3036	crises convulsives
+T58	patho 3038 3044	ataxie
+T59	patho 3071 3082	Encéphalite
+T60	patho 3102 3117	Encéphalopathie
+T61	patho 3137 3155	convulsion fébrile
+T62	patho 3176 3202	syndrome de Guillain-Barré
+T63	patho 3204 3213	céphalées
+T64	patho 3215 3255	encéphalite post-rougeoleuse à inclusion
+T65	patho 3294 3312	paralysie oculaire
+T66	patho 3314 3329	névrite optique
+T67	patho 3331 3342	paresthésie
+T68	patho 3344 3355	polynévrite
+T69	patho 3357 3372	polyneuropathie
+T70	patho 3374 3395	névrite rétrobulbaire
+T71	patho 3397 3404	syncope
+T72	patho 3407 3423	Trouble oculaire
+T73	patho 3449 3462	conjonctivite
+T74	patho 3464 3472	rétinite
+T75	patho 3475 3518	Troubles de l'oreille et du conduit auditif
+T76	patho 3544 3565	surdité de perception
+T77	patho 3568 3619	Troubles respiratoires, thoraciques et médiastinaux
+T78	patho 3635 3645	rhinorrhée
+T79	patho 3673 3690	spasme bronchique
+T80	patho 3692 3696	toux
+T81	patho 3698 3707	pneumonie
+T82	patho 3709 3721	pneumopathie
+T83	patho 3760 3772	mal de gorge
+T84	patho 3775 3802	Troubles gastro-intestinaux
+T85	patho 3818 3826	diarrhée
+T86	patho 3830 3842	vomissements
+T87	patho 3870 3877	nausées
+T88	patho 3880 3923	Troubles cutanés et des tissus sous-cutanés
+T89	patho 3935 3957	éruption morbilliforme
+T90	patho 3967 3975	éruption
+T91	patho 3993 4002	urticaire
+T92	patho 4030 4041	panniculite
+T93	patho 4043 4050	purpura
+T94	patho 4052 4070	induration cutanée
+T95	patho 4072 4099	syndrome de Stevens-Johnson
+T96	patho 4101 4107	prurit
+T97	patho 4110 4170	Troubles musculosquelettiques, du tissu conjonctif et des os
+T98	patho 4196 4204	arthrite
+T99	patho 4211 4221	arthralgie
+T100	patho 4292 4299	myalgie
+T101	patho 4302 4319	Troubles généraux
+T102	patho 4379 4385	fièvre
+T104	patho 4435 4462	douleur au site d'injection
+T108	patho 4553 4581	éruption au site d'injection
+T110	patho 4609 4638	réactions au site d'injection
+T112	patho 4640 4647	brûlure
+T113	patho 4654 4673	sensation de piqûre
+T114	patho 4692 4698	fièvre
+T115	patho 4718 4725	malaise
+T116	patho 4727 4736	papillite
+T117	patho 4738 4757	oedème périphérique
+T118	patho 4759 4769	gonflement
+T119	patho 4771 4782	sensibilité
+T121	patho 4815 4826	tuméfaction
+T123	patho 4861 4881	Troubles vasculaires
+T124	patho 4907 4918	vascularite
+T125	patho 4945 4964	effets indésirables
+T126	patho 4978 4997	Méningite aseptique
+T127	patho 5009 5028	Méningite aseptique
+T128	proc 5058 5100	vaccination rougeole, oreillons et rubéole
+T131	patho 5171 5180	oreillons
+T132	patho 5187 5206	Méningite aseptique
+T133	patho 5285 5294	oreillons
+T134	patho 5314 5333	Méningite aseptique
+T135	patho 5336 5347	Encéphalite
+T136	patho 5351 5366	Encéphalopathie
+T137	proc 5409 5417	vaccinés
+T138	trt 5443 5479	vaccin contenant la valence rougeole
+T140	patho 5491 5531	encéphalite post-rougeoleuse à inclusion
+T141	patho 5536 5562	pneumopathie inflammatoire
+T142	patho 5569 5574	décès
+T143	patho 5611 5620	infection
+T144	patho 5651 5659	rougeole
+T145	trt 5676 5682	vaccin
+T146	patho 5748 5757	infection
+T149	patho 5852 5887	Panencéphalite subaiguë sclérosante
+T150	trt 5921 5946	vaccin contre la rougeole
+T151	patho 5966 5970	PESS
+T152	patho 5984 5988	PESS
+T154	patho 6058 6091	infection par la rougeole sauvage
+T155	trt 6113 6138	vaccin contre la rougeole
+T156	patho 6192 6201	rougeoles
+T157	duree 6231 6245	première année
+T158	proc 6277 6300	vaccination rougeoleuse
+T159	proc 6399 6409	Prévention
+T160	patho 6414 6422	Maladies
+T161	trt 6470 6495	vaccin contre la rougeole
+T162	patho 6524 6528	PESS
+T163	patho 6545 6553	rougeole
+T164	patho 6579 6583	PESS
+T165	patho 6586 6597	Arthralgies
+T166	patho 6604 6612	arthrite
+T167	patho 6613 6624	Arthralgies
+T168	patho 6631 6639	arthrite
+T169	patho 6694 6705	polynévrite
+T170	patho 6738 6745	rubéole
+T171	proc 6960 6971	vaccination
+T172	patho 6977 6986	réactions
+T173	patho 7111 7119	arthrite
+T174	patho 7128 7138	arthralgie
+T175	patho 7224 7233	réactions
+T176	duree 7321 7334	quelques mois
+T177	duree 7362 7377	quelques années
+T178	patho 7419 7428	réactions
+T179	age 7580 7591	35 à 45 ans
+T180	patho 7598 7607	réactions
+T181	patho 7693 7711	arthrite chronique
+T182	patho 7714 7732	arthrite chronique
+T183	patho 7753 7760	rubéole
+T184	trt 7830 7844	antigène viral
+T185	proc 7894 7902	vaccinés
+T186	patho 7986 8005	effets indésirables
+T187	patho 8035 8054	effets indésirables
+T188	trt 8087 8097	médicament
+T189	proc 8131 8143	surveillance
+T190	trt 8183 8193	médicament
+T191	patho 8239 8256	effet indésirable
+T4	patho 1126 1145	symptômes cliniques
+T5	trt 1407 1414;1430 1475	vaccins combinés rougeoleux, des oreillons, rubéoleux
+T9	patho 1913 1921	erythème
+T20	patho 3046 3069	sensation vertigineuses
+T21	patho 4323 4362	anomalies liés au site d'administration
+T26	patho 4405 4433	érythème au site d'injection
+T103	patho 4466 4492	oedème au site d'injection
+T105	patho 4506 4535	ecchymose au site d'injection
+T106	patho 4784 4813	vésicules au site d'injection
+T107	patho 4830 4858	érythème au site d'injection
+T109	patho 5394 5408	immunodéprimés
+T111	patho 7930 7952	symptômes articulaires

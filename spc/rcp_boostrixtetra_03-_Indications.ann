@@ -1,0 +1,21 @@
+T1	trt 15 28	BOOSTRIXTETRA
+T2	proc 44 55	vaccination
+T3	trt 59 131	rappel contre la diphtérie, le tétanos, la coqueluche et la poliomyélite
+T7	age 162 174	âge de 3 ans
+T8	trt 222 235	BOOSTRIXTETRA
+T9	patho 316 332	plaie tétanigène
+T10	patho 344 349	plaie
+T11	trt 391 410	anatoxine tétanique
+T12	proc 471 483	vaccinations
+T13	date 528 539	24 mai 2013
+T14	proc 551 570	calendrier vaccinal
+T15	trt 616 654	vaccin contenant une valence tétanique
+T16	duree 671 677	20 ans
+T17	duree 732 738	10 ans
+T18	patho 787 792	plaie
+T19	patho 802 807	plaie
+T20	patho 833 847	corps étranger
+T21	trt 932 969	vaccin contenant la valence tétanique
+T22	trt 1024 1057	immunoglobuline tétanique humaine
+T4	age 699 714	moins de 65 ans
+T5	age 760 774	65 ans et plus

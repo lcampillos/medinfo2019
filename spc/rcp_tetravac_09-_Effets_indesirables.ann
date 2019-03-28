@@ -1,0 +1,134 @@
+T1	patho 3 22	effets indésirables
+T2	proc 111 127	primovaccination
+T3	trt 128 148	TETRAVAC-ACELLULAIRE
+T4	trt 169 183	vaccin Act-HIB
+T5	patho 189 198	réactions
+T6	patho 240 277	réactions locales au site d'injection
+T8	patho 283 298	pleurs anormaux
+T9	patho 304 319	perte d'appétit
+T10	patho 327 339	irritabilité
+T11	patho 346 365	signes et symptômes
+T12	duree 403 412	48 heures
+T13	proc 424 435	vaccination
+T14	duree 460 481	entre 48 et 72 heures
+T15	patho 561 590	réactions au site d'injection
+T17	proc 668 684	primovaccination
+T18	trt 713 733	TETRAVAC-ACELLULAIRE
+T19	patho 814 823	réactions
+T20	patho 825 833	Myalgies
+T21	patho 835 842	malaise
+T22	patho 844 856	Maux de tête
+T23	age 887 908	âgés de 2 ans ou plus
+T24	patho 935 954	effets indésirables
+T25	patho 959 978	effets indésirables
+T26	trt 1411 1431	TETRAVAC-ACELLULAIRE
+T27	trt 1660 1666	vaccin
+T28	patho 1778 1829	Affections hématologiques et du système lymphatique
+T29	patho 1830 1839	réactions
+T30	patho 1866 1882	Lymphadénopathie
+T31	patho 1890 1923	Affections du système immunitaire
+T32	patho 1924 1933	réactions
+T33	patho 1960 1999	Réactions d'hypersensibilité immédiates
+T34	patho 2010 2027	oedème de la face
+T35	patho 2029 2041	angio-oedème
+T36	patho 2043 2060	oedème de Quincke
+T37	patho 2062 2087	réactions anaphylactiques
+T38	patho 2095 2137	Troubles du métabolisme et de la nutrition
+T39	patho 2138 2147	réactions
+T40	patho 2164 2182	Perte de l'appétit
+T41	patho 2190 2215	Affections psychiatriques
+T42	patho 2216 2225	réactions
+T43	patho 2242 2251	Nervosité
+T44	patho 2253 2265	irritabilité
+T45	patho 2276 2291	pleurs anormaux
+T46	patho 2294 2303	réactions
+T47	patho 2315 2323	Insomnie
+T48	patho 2325 2343	trouble du sommeil
+T49	patho 2346 2355	réactions
+T50	patho 2379 2399	pleurs inconsolables
+T51	patho 2420 2449	Affections du système nerveux
+T52	patho 2450 2459	réactions
+T53	patho 2476 2486	Somnolence
+T54	patho 2489 2501	Maux de tête
+T55	patho 2504 2513	réactions
+T56	patho 2540 2550	Convulsion
+T57	patho 2564 2570	fièvre
+T58	patho 2573 2580	Syncope
+T59	patho 2588 2618	Affections gastro-intestinales
+T60	patho 2619 2628	réactions
+T61	patho 2645 2656	Vomissement
+T62	patho 2659 2668	réactions
+T63	patho 2680 2688	Diarrhée
+T64	patho 2696 2741	Affections de la peau et du tissu sous-cutané
+T65	patho 2742 2751	réactions
+T66	patho 2778 2796	Eruptions cutanées
+T67	patho 2798 2806	érythème
+T68	patho 2808 2817	urticaire
+T69	patho 2825 2857	Affections musculo-squelettiques
+T70	patho 2873 2882	réactions
+T71	patho 2899 2907	Myalgies
+T72	patho 2915 2970	Troubles généraux et anomalies au site d'administration
+T73	patho 2971 2980	réactions
+T74	patho 2997 3025	Erythème au site d'injection
+T76	patho 3058 3084	OEdème au site d'injection
+T78	patho 3087 3093	fièvre
+T79	patho 3102 3109	malaise
+T80	patho 3112 3121	réactions
+T82	patho 3166 3175	réactions
+T83	patho 3191 3198	Rougeur
+T84	patho 3202 3208;3216 3235	OEdème au site d'injection
+T86	patho 3238 3244	fièvre
+T87	patho 3255 3270	Réactions rares
+T88	patho 3271 3277	fièvre
+T89	patho 3334 3364	réactions au point d'injection
+T90	patho 3291 3300	réactions
+T92	patho 3391 3397	OEdème
+T93	trt 3437 3446	injection
+T94	patho 3501 3510	réactions
+T96	duree 3524 3538	24 à 72 heures
+T97	proc 3548 3559	vaccination
+T98	patho 3608 3616	érythème
+T99	patho 3618 3625	chaleur
+T100	patho 3627 3638	sensibilité
+T102	duree 3708 3719	3 à 5 jours
+T103	trt 3794 3847	vaccin contenant la valence coquelucheuse acellulaire
+T104	patho 3915 3939	hypotonie-hyporéactivité
+T105	trt 3982 4024	vaccins contenant la valence coquelucheuse
+T106	patho 4031 4053	réactions oedémateuses
+T107	proc 4119 4130	vaccination
+T108	trt 4138 4204	vaccin contenant la valence Haemophilus influenzae type b conjugué
+T109	patho 4211 4220	réactions
+T110	proc 4257 4273	primovaccination
+T111	proc 4312 4323	vaccination
+T112	patho 4346 4355	séquelles
+T113	duree 4365 4374	24 heures
+T114	patho 4381 4390	réactions
+T115	patho 4416 4423	cyanose
+T116	patho 4425 4433	érythème
+T117	patho 4435 4442	purpura
+T118	patho 4461 4475	pleurs sévères
+T119	patho 4482 4491	réactions
+T120	trt 4514 4534	TETRAVAC-ACELLULAIRE
+T121	trt 4572 4617	vaccin Haemophilus influenzae type b conjugué
+T122	patho 4620 4639	effets indésirables
+T123	trt 4710 4730	TETRAVAC-ACELLULAIRE
+T124	trt 4751 4758	vaccins
+T125	trt 4818 4838	TETRAVAC-ACELLULAIRE
+T126	patho 4842 4868	Syndrome de Guillain-Barré
+T127	patho 4872 4902	neuropathie du plexus brachial
+T128	trt 4931 4969	vaccin contenant l'anatoxine tétanique
+T130	patho 5047 5052	Apnée
+T132	patho 5197 5216	effets indésirables
+T133	patho 5246 5265	effets indésirables
+T134	trt 5298 5308	médicament
+T135	proc 5342 5354	surveillance
+T136	trt 5394 5404	médicament
+T137	patho 5450 5467	effet indésirable
+T138	trt 5550 5560	médicament
+T7	patho 1330 1353	événements indésirables
+T16	patho 1689 1712	événements indésirables
+T139	patho 2371 2375;2386 2399	Cris inconsolables
+T140	patho 2825 2835;2861 2872	Affections systémiques
+T75	patho 3028 3055	Douleur au site d'injection
+T77	patho 3133 3163	Induration au site d'injection
+T81	patho 3642 3669	douleur au site d'injection

@@ -1,0 +1,134 @@
+T2	patho 79 87	sédation
+T3	patho 523 529	crises
+T4	patho 590 609	effets indésirables
+T5	patho 956 985	Affections du système nerveux
+T6	patho 442 472	troubles vasculaires cérébraux
+T8	patho 1471 1503	Affections musculo-squelettiques
+T9	patho 1002 1010	sédation
+T10	patho 1012 1022	somnolence
+T11	patho 1065 1074	confusion
+T12	patho 1076 1084	vertiges
+T13	patho 1086 1095	céphalées
+T14	patho 1097 1105	insomnie
+T15	patho 1107 1113	ataxie
+T16	patho 1115 1127	tremblements
+T17	patho 1135 1146	paresthésie
+T18	patho 1148 1158	dysarthrie
+T19	patho 1160 1170	dysgueusie
+T20	patho 1172 1181	acouphène
+T21	patho 1250 1262	épileptiques
+T22	patho 1294 1304	spasticité
+T23	patho 1330 1355	Affections psychiatriques
+T24	patho 1384 1394	dépression
+T25	patho 1396 1410	hallucinations
+T26	patho 1411 1431	Affections oculaires
+T27	patho 1443 1470	troubles de l'accommodation
+T28	patho 1471 1481;1507 1518	Affections systémiques
+T29	patho 1526 1546	hypotonie musculaire
+T30	time 1614 1621	journée
+T31	patho 1680 1701	Affections cardiaques
+T32	patho 1709 1720	bradycardie
+T33	patho 1721 1745	Affections respiratoires
+T34	patho 1757 1780	dépression respiratoire
+T35	patho 1781 1803	Affections vasculaires
+T36	patho 1815 1826	hypotension
+T37	patho 1827 1857	Affections gastro-intestinales
+T38	patho 1874 1881	nausées
+T39	patho 1893 1905	vomissements
+T40	patho 1907 1919	constipation
+T41	patho 1921 1930	diarrhées
+T42	patho 1932 1950	sécheresse buccale
+T43	patho 1958 1978	douleurs abdominales
+T44	patho 1980 1988	anorexie
+T45	patho 1989 2015	Affections hépatobiliaires
+T46	patho 2023 2050	fonction hépatique anormale
+T47	patho 2114 2159	Affections de la peau et du tissu sous-cutané
+T48	patho 2185 2201	éruption cutanée
+T49	patho 2227 2236	urticaire
+T50	patho 2237 2278	Affections du rein et des voies urinaires
+T51	patho 2308 2315	dysurie
+T52	patho 2329 2384	Troubles généraux et anomalies au site d'administration
+T53	patho 2437 2445	asthénie
+T54	patho 2446 2457	hypothermie
+T55	patho 2474 2493	Syndrome de sevrage
+T56	patho 2646 2665	Syndrome de sevrage
+T57	patho 2681 2704	convulsions postnatales
+T58	trt 2771 2780	BACLOFENE
+T59	proc 2804 2814	voie orale
+T60	patho 2828 2855	syndrome d'apnée du sommeil
+T61	trt 2918 2927	baclofène
+T62	patho 2998 3017	effets indésirables
+T63	proc 3084 3093	perfusion
+T64	trt 3119 3128	baclofène
+T65	patho 3131 3139	troubles
+T66	patho 3173 3180	anxiété
+T67	patho 3182 3196	désorientation
+T68	patho 3198 3213	hypersalivation
+T69	patho 3215 3222	dyspnée
+T70	patho 3224 3233	bradypnée
+T71	patho 3235 3241	prurit
+T72	patho 3243 3256	oedème facial
+T73	patho 3277 3284	pyrexie
+T74	patho 3286 3294	douleurs
+T75	patho 3296 3304	frissons
+T76	patho 3306 3327	incontinence urinaire
+T77	patho 3331 3349	rétention urinaire
+T78	patho 3362 3382	tentative de suicide
+T79	patho 3384 3393	léthargie
+T80	patho 3395 3407	hypertension
+T81	patho 3409 3427	thrombose veineuse
+T82	patho 3443 3449	pâleur
+T83	patho 3451 3472	hypertonie musculaire
+T84	patho 3474 3483	dysphagie
+T85	patho 3485 3494	nystagmus
+T86	patho 3511 3528	idées suicidaires
+T87	patho 3530 3539	agitation
+T88	patho 3541 3561	réactions paranoïdes
+T89	patho 3563 3568	iléus
+T90	patho 3570 3584	déshydratation
+T91	patho 3586 3594	alopécie
+T92	patho 3596 3618	troubles de l'érection
+T93	patho 3627 3645	troubles mnésiques
+T94	patho 3647 3656	pneumonie
+T95	patho 3658 3683	pneumopathie d'inhalation
+T96	patho 3710 3729	Syndrome de sevrage
+T97	patho 3795 3814	Syndrome de sevrage
+T98	patho 3835 3855	réactions de sevrage
+T100	patho 3996 4021	troubles neuromusculaires
+T101	patho 4023 4033	spasticité
+T102	patho 4035 4046	dyskinésies
+T103	patho 4048 4061	rhabdomyolyse
+T104	patho 4063 4074	paresthésie
+T105	patho 4076 4087	convulsions
+T106	patho 4094 4117	état de mal épileptique
+T107	patho 4120 4126	prurit
+T108	patho 4128 4140	dysautonomie
+T109	patho 4142 4154	hyperthermie
+T110	patho 4156 4167	hypotension
+T111	patho 4170 4195	troubles de la conscience
+T112	patho 4216 4233	état confusionnel
+T113	patho 4235 4242	anxiété
+T114	patho 4244 4260	état psychotique
+T115	patho 4261 4269	maniaque
+T116	patho 4287 4300	coagulopathie
+T117	patho 4308 4315	urgence
+T118	patho 4326 4335	surdosage
+T119	patho 4355 4374	effets indésirables
+T120	patho 4484 4503	effets indésirables
+T121	patho 4533 4552	effets indésirables
+T122	trt 4585 4595	médicament
+T123	proc 4629 4641	surveillance
+T124	trt 4681 4691	médicament
+T125	patho 4737 4754	effet indésirable
+T126	trt 4837 4847	médicament
+T127	patho 5 24	effets indésirables
+T1	patho 1367 1382	état euphorique
+T7	patho 2171 2183	hyperhydrose
+T128	patho 2564 2593	diminution du débit cardiaque
+T129	patho 408 434	antécédents psychiatriques
+T130	patho 571 583	épileptiques
+T131	patho 2594 2621	augmentation de la glycémie
+T132	patho 3429 3441	flush cutané
+T99	patho 4170 4178;4199 4214	troubles du comportement
+T133	patho 4273 4282	paranoïde
+T134	time 1668 1677	vespérale

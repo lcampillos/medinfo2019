@@ -1,0 +1,11 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 35 41	vaccin
+T3	proc 62 72	prévention
+T4	patho 89 98	diphtérie
+T5	patho 103 110	tétanos
+T6	patho 118 128	coqueluche
+T7	patho 138 150	poliomyélite
+T8	age 177 201	âgés de 16 mois à 13 ans
+T10	proc 248 264	primovaccination
+T11	patho 276 284	maladies
+T12	trt 306 319	INFANRIXTETRA

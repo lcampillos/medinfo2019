@@ -1,0 +1,25 @@
+T1	patho 5 24	Effets indésirables
+T2	proc 102 115	revaccination
+T3	trt 120 129	Pneumovax
+T4	age 162 181	âgés de 50 à 64 ans
+T5	proc 267 280	revaccination
+T6	patho 299 318	Effets indésirables
+T7	trt 329 338	injection
+T9	duree 486 493	3 jours
+T10	proc 505 516	vaccination
+T11	duree 552 559	5 jours
+T12	patho 572 591	Effets indésirables
+T13	trt 613 619	vaccin
+T14	proc 655 665	revaccinés
+T15	patho 825 833	asthénie
+T16	patho 834 841	fatigue
+T17	patho 843 851	myalgies
+T18	patho 855 864	céphalées
+T19	patho 977 996	Effets indésirables
+T20	patho 1043 1062	Effets indésirables
+T21	proc 1084 1095	vaccination
+T22	trt 1100 1109	Pneumovax
+T23	patho 1438 1457	Effets indésirables
+T8	patho 432 461	réactions au site d'injection
+T24	age 202 224	âgés de 65 ans et plus
+T25	proc 81 98	primo-vaccination

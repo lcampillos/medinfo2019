@@ -1,0 +1,8 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 32 39	PRIORIX
+T3	proc 59 78	immunisation active
+T4	patho 89 97	rougeole
+T5	patho 103 112	oreillons
+T6	patho 119 126	rubéole
+T7	age 144 158	âgés de 9 mois
+T8	age 237 256	âgés de 9 à 12 mois

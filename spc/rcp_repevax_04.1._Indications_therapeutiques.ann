@@ -1,0 +1,10 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 32 39	REPEVAX
+T3	proc 59 78	immunisation active
+T4	patho 89 98	diphtérie
+T5	patho 103 110	tétanos
+T6	patho 115 125	coqueluche
+T7	patho 132 144	poliomyélite
+T8	age 175 187	âge de 3 ans
+T9	proc 204 220	primovaccination
+T10	trt 240 247	REPEVAX

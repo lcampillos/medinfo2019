@@ -1,0 +1,32 @@
+T1	patho 5 24	Effets indésirables
+T2	patho 48 60	cardiopathie
+T3	patho 62 84	insuffisance cardiaque
+T4	patho 86 91	angor
+T5	patho 131 145	hyperthyroïdie
+T6	patho 156 167	tachycardie
+T7	patho 169 181	tremblements
+T8	patho 183 211	troubles du rythme cardiaque
+T9	patho 213 221	insomnie
+T10	patho 223 235	excitabilité
+T11	patho 266 272	sueurs
+T12	patho 274 295	amaigrissement rapide
+T13	patho 297 305	diarrhée
+T14	duree 383 398	plusieurs jours
+T15	patho 491 505	hypercalciurie
+T16	patho 514 542	réactions d'hypersensibilité
+T17	trt 548 558	excipients
+T18	patho 613 632	signes et symptômes
+T19	patho 659 668	urticaire
+T20	patho 670 676	prurit
+T21	patho 678 690	angio-oedème
+T22	patho 692 699	dyspnée
+T23	patho 701 709	érythème
+T24	patho 728 747	Effets indésirables
+T25	patho 777 796	Effets indésirables
+T26	trt 829 839	médicament
+T27	proc 873 885	surveillance
+T28	trt 925 935	médicament
+T29	patho 981 998	effet indésirable
+T30	trt 1081 1091	médicament
+T31	patho 93 111	troubles du rythme
+T32	patho 237 264	élévation de la température

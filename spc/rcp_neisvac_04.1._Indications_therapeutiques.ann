@@ -1,0 +1,7 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 32 39	NEISVAC
+T3	proc 59 78	immunisation active
+T4	age 105 118	âge de 2 mois
+T5	proc 159 169	prévention
+T6	patho 174 222	maladies invasives dues à Neisseria meningitidis
+T7	trt 258 265	NEISVAC

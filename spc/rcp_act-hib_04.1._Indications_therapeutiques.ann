@@ -1,0 +1,13 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 35 41	vaccin
+T3	proc 93 104	vaccination
+T4	proc 125 135	prévention
+T5	patho 152 161	diphtérie
+T6	patho 166 173	tétanos
+T7	patho 183 195	poliomyélite
+T8	proc 259 278	calendrier vaccinal
+T9	proc 312 319	rappels
+T10	age 355 367	âge de 6 ans
+T11	trt 388 394	vaccin
+T12	proc 446 471	vaccination coquelucheuse
+T13	age 374 383	11-13 ans

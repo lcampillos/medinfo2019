@@ -1,0 +1,184 @@
+T1	patho 3 22	effets indésirables
+T2	trt 162 175	BOOSTRIXTETRA
+T3	age 208 225	âgés de 4 à 8 ans
+T4	age 267 286	âgés de 10 à 93 ans
+T5	patho 293 312	effets indésirables
+T6	trt 392 405	BOOSTRIXTETRA
+T7	patho 418 447	réactions au site d'injection
+T9	patho 449 456	douleur
+T10	patho 458 465	rougeur
+T11	patho 469 479	gonflement
+T12	duree 575 584	48 heures
+T13	proc 596 607	vaccination
+T14	patho 632 640	séquelle
+T15	patho 647 666	effets indésirables
+T16	patho 906 925	effets indésirables
+T17	trt 971 984	BOOSTRIXTETRA
+T18	age 995 1012	âgés de 4 à 8 ans
+T19	trt 1049 1062	vaccins ROR/V
+T20	age 1080 1097	âgés de 3 à 6 ans
+T21	patho 1100 1151	Affections hématologiques et du système lymphatique
+T22	patho 1167 1183	lymphadénopathie
+T23	patho 1184 1226	Troubles du métabolisme et de la nutrition
+T24	patho 1238 1246	anorexie
+T25	patho 1247 1272	Affections psychiatriques
+T26	patho 1284 1296	irritabilité
+T27	patho 1313 1331	trouble du sommeil
+T28	patho 1333 1340	apathie
+T29	patho 1341 1370	Affections du système nerveux
+T30	patho 1387 1397	somnolence
+T31	patho 1409 1418	céphalées
+T32	patho 1419 1473	Affections respiratoires, thoraciques et médiastinales
+T33	patho 1512 1541	Affections gastrointestinales
+T34	patho 1557 1565	diarrhée
+T35	patho 1567 1574	nausées
+T36	patho 1576 1588	vomissements
+T37	patho 1590 1608	douleur abdominale
+T38	patho 1609 1664	Troubles généraux et anomalies au site d'administration
+T39	patho 1684 1713	réactions au site d'injection
+T41	patho 1726 1733	rougeur
+T42	patho 1740 1750	gonflement
+T43	patho 1753 1780	douleur au site d'injection
+T45	patho 1793 1799	fièvre
+T46	patho 1824 1830	fièvre
+T47	patho 1844 1854	gonflement
+T48	proc 1872 1879	vacciné
+T49	patho 1932 1961	réactions au site d'injection
+T51	patho 1974 1984	hémorragie
+T52	patho 1986 1992	prurit
+T53	patho 1996 2006	induration
+T54	patho 2023 2032	fatigue 2
+T55	age 2041 2060	âgés de 10 à 93 ans
+T56	patho 2071 2097	Infections et infestations
+T57	patho 2113 2124	herpès oral
+T58	patho 2125 2176	Affections hématologiques et du système lymphatique
+T59	patho 2193 2209	lymphadénopathie
+T60	patho 2210 2252	Troubles du métabolisme et de la nutrition
+T61	patho 2269 2284	perte d'appétit
+T62	patho 2285 2314	Affections du système nerveux
+T63	patho 2331 2340	céphalées
+T64	patho 2356 2368	paresthésies
+T65	patho 2370 2380	somnolence
+T66	patho 2407 2461	Affections respiratoires, thoraciques et médiastinales
+T67	patho 2477 2483	asthme
+T68	patho 2484 2513	Affections gastrointestinales
+T69	patho 2526 2553	troubles gastro-intestinaux
+T70	patho 2564 2576	vomissements
+T71	patho 2578 2596	douleur abdominale
+T72	patho 2598 2605	nausées
+T73	patho 2607 2652	Affections de la peau et du tissu sous-cutané
+T74	patho 2668 2674	prurit
+T75	patho 2675 2707	Affections musculo-squelettiques
+T76	patho 2739 2750	arthralgies
+T77	patho 2752 2759	myalgie
+T78	patho 2760 2815	Troubles généraux et anomalies au site d'administration
+T79	patho 2833 2862	réactions au site d'injection
+T81	patho 2875 2882	rougeur
+T82	patho 2889 2899	gonflement
+T83	patho 2902 2909	fatigue
+T84	patho 2911 2938	douleur au site d'injection
+T86	patho 2952 2958	fièvre
+T87	patho 2970 2999	réactions au site d'injection
+T89	patho 3012 3020	hématome
+T90	patho 3022 3028	prurit
+T91	patho 3030 3040	induration
+T92	patho 3042 3049	chaleur
+T93	patho 3053 3068	engourdissement
+T94	patho 3085 3095	gonflement
+T95	proc 3113 3120	vacciné
+T96	patho 3173 3179	fièvre
+T97	patho 3194 3202	frissons
+T98	patho 3204 3211	douleur
+T99	trt 3212 3225	BOOSTRIXTETRA
+T100	trt 3251 3264	vaccins ROR/V
+T101	age 3306 3323	âgés de 3 à 6 ans
+T102	patho 3347 3392	infection des voies respiratoires supérieures
+T103	patho 3400 3416	éruption cutanée
+T104	patho 3454 3460	fièvre
+T105	patho 3466 3478	irritabilité
+T106	patho 3484 3491	fatigue
+T107	patho 3497 3512	perte d'appétit
+T108	patho 3520 3547	troubles gastro-intestinaux
+T109	patho 3558 3566	diarrhée
+T110	patho 3570 3582	vomissements
+T111	patho 3684 3703	effets indésirables
+T112	patho 3789 3808	effets indésirables
+T113	trt 3854 3862	BOOSTRIX
+T114	trt 3912 3925	BOOSTRIXTETRA
+T115	age 3953 3970	âgés de 4 à 8 ans
+T116	age 4013 4032	âgés de 10 à 76 ans
+T117	age 4070 4087	âgés de 4 à 8 ans
+T118	patho 4098 4127	Affections du système nerveux
+T119	patho 4143 4166	troubles de l'attention
+T120	patho 4167 4187	Affections de l'oeil
+T121	patho 4204 4217	conjonctivite
+T122	patho 4218 4273	Troubles généraux et anomalies au site d'administration
+T123	patho 4289 4298	douleur 2
+T124	age 4307 4326	âgés de 10 à 76 ans
+T125	patho 4338 4364	Infections et infestations
+T126	patho 4380 4426	infections des voies respiratoires supérieures
+T127	patho 4428 4438	pharyngite
+T128	patho 4441 4470	Affections du système nerveux
+T129	patho 4486 4493	syncope
+T130	trt 5186 5214	Diphtérie-Tétanos-Coqueluche
+T131	patho 4564 4568	toux
+T132	patho 4569 4598	Affections gastrointestinales
+T133	patho 4611 4619	diarrhée
+T134	patho 4620 4665	Affections de la peau et du tissu sous-cutané
+T135	patho 4682 4694	hyperhidrose
+T136	patho 4696 4712	éruption cutanée
+T137	patho 4713 4745	Affections musculo-squelettiques
+T138	patho 4777 4805	raideur musculo-squelettique
+T139	patho 4809 4834	raideur des articulations
+T140	patho 4835 4890	Troubles généraux et anomalies au site d'administration
+T141	patho 4907 4914	malaise
+T145	patho 5047 5070	syndrome pseud-ogrippal
+T146	proc 5164 5180	primovaccination
+T147	age 5335 5357	âgés de 15 ans et plus
+T148	proc 5363 5374;5383 5429	vaccination diphtérie, tétanos, coqueluche et poliomyélite
+T153	trt 5454 5467	BOOSTRIXTETRA
+T154	trt 5482 5488	vaccin
+T155	trt 5509 5518	antigènes
+T156	trt 5557 5570	BOOSTRIXTETRA
+T157	duree 5571 5577	10 ans
+T158	proc 5704 5716	Surveillance
+T159	patho 5859 5878	effets indésirables
+T160	proc 5917 5929	surveillance
+T161	proc 5963 5974	vaccination
+T162	trt 5980 5993	BOOSTRIXTETRA
+T163	patho 5996 6029	Affections du système immunitaire
+T164	patho 6030 6049	Réaction allergique
+T165	patho 6064 6089	réactions anaphylactiques
+T166	patho 6109 6138	Affections du système nerveux
+T167	patho 6150 6174	hypotonie-hyporéactivité
+T168	patho 6176 6187	convulsions
+T169	patho 6202 6208	fièvre
+T170	patho 6210 6255	Affections de la peau et du tissu sous-cutané
+T171	patho 6256 6265	Urticaire
+T172	patho 6267 6284	oedème de Quincke
+T173	patho 6285 6340	Troubles généraux et anomalies au site d'administration
+T174	patho 6341 6349	Asthénie
+T175	trt 6378 6385	vaccins
+T176	trt 6398 6417	anatoxine tétanique
+T177	patho 6439 6458	effets indésirables
+T178	patho 6526 6548	paralysies ascendantes
+T179	patho 6559 6583	paralysies respiratoires
+T180	patho 6593 6619	syndrome de Guillain-Barré
+T181	patho 6657 6676	effets indésirables
+T182	patho 6706 6725	effets indésirables
+T183	trt 6758 6768	médicament
+T184	proc 6802 6814	surveillance
+T185	trt 6854 6864	médicament
+T186	patho 6910 6927	effet indésirable
+T187	trt 7010 7020	médicament
+#1	AnnotatorNotes T32	C0851355 Respiratory, thoracic and mediastinal disorders
+T8	patho 1489 1511	sécheresse de la gorge
+T40	patho 2382 2406	sensations vertigineuses
+T44	patho 2675 2685;2711 2722	Affections systémiques
+T50	trt 5181 5184	DTC
+T80	patho 4494 4548	Affections respiratoires, thoraciques et médiastinales
+T85	patho 4713 4723;4749 4760	Affections systémiques
+T88	patho 4927 4955	réaction au site d'injection
+T142	patho 4966 4992	nodule au site d'injection
+T143	patho 4996 5030	abscès stérile au site d'injection
+T144	patho 6064 6073;6093 6108	réactions anaphylactoides

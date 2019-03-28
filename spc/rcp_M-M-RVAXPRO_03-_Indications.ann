@@ -1,0 +1,28 @@
+T1	trt 32 43	M-M-RVaxPro
+T2	age 226 239	âge de 9 mois
+T3	trt 275 286	M-M-RVaxPro
+T4	proc 306 325	immunisation active
+T5	patho 336 344	rougeole
+T6	patho 350 359	oreillons
+T7	patho 366 373	rubéole
+T8	trt 375 378	ROR
+T9	age 397 411	âgés de 9 mois
+T10	age 472 482	6 à 8 mois
+T11	proc 496 526	vaccination contre la rougeole
+T12	age 564 582	âgés de 6 à 8 mois
+T13	patho 640 648	rougeole
+T14	patho 698 706	rougeole
+T15	duree 717 726	72 heures
+T16	patho 803 811	rougeole
+T17	trt 829 864	vaccin rougeoleux monovalent Rouvax
+T19	trt 879 885	vaccin
+T20	trt 961 967	vaccin
+T21	date 968 985	fin novembre 2017
+T22	proc 990 1009	calendrier vaccinal
+T24	trt 1052 1072	vaccin trivalent ROR
+T25	trt 1196 1214	vaccins trivalents
+T26	trt 1241 1252	M-M-RVaxPro
+T27	trt 1256 1263	Priorix
+T28	age 1304 1317	âge de 9 mois
+T30	trt 1427 1437	médicament
+T31	trt 1509 1516	vaccins

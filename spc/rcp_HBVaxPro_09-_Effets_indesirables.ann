@@ -1,0 +1,84 @@
+T1	patho 60 79	effets indésirables
+T2	patho 3 22	effets indésirables
+T4	patho 140 159	douleur transitoire
+T5	patho 161 169	érythème
+T6	patho 171 181	induration
+T7	patho 222 241	effets indésirables
+T8	patho 198 217	effets indésirables
+T9	trt 300 306	vaccin
+T10	trt 331 358	vaccins contre l'hépatite B
+T11	trt 410 416	vaccin
+T12	patho 508 527	effets indésirables
+T13	patho 528 583	Troubles généraux et anomalies au site d'administration
+T14	patho 595 612	réactions locales
+T16	patho 637 656	douleur transitoire
+T17	patho 658 666	érythème
+T18	patho 668 678	induration
+T19	patho 693 700	fatigue
+T20	patho 702 708	fièvre
+T21	patho 710 717	malaise
+T22	patho 746 797	Affections hématologiques et du système lymphatique
+T23	patho 810 826	thrombocytopénie
+T24	patho 828 844	lymphadénopathie
+T25	patho 847 880	Affections du système immunitaire
+T26	patho 893 908	maladie sérique
+T27	patho 910 921	anaphylaxie
+T28	patho 923 943	périartérite noueuse
+T29	patho 946 975	Affections du système nerveux
+T30	patho 988 999	Paresthésie
+T31	patho 1001 1010	paralysie
+T32	patho 1022 1039	paralysie de Bell
+T33	patho 1041 1058	paralysie faciale
+T34	patho 1061 1087	Neuropathies périphériques
+T35	patho 1089 1108	polyradiculonévrite
+T36	patho 1110 1136	Syndrome de Guillain-Barré
+T37	patho 1139 1146	Névrite
+T38	patho 1158 1173	Névrite optique
+T39	patho 1176 1183	Myélite
+T40	patho 1195 1213	myélite transverse
+T41	patho 1216 1227	Encéphalite
+T42	patho 1280 1315	Exacerbation de sclérose en plaques
+T43	patho 1317 1336	Sclérose en plaques
+T44	patho 1338 1349	Convulsions
+T45	patho 1351 1360	Céphalées
+T46	patho 1362 1384	Sensation vertigineuse
+T47	patho 1386 1393	Syncope
+T48	patho 1394 1414	Affections oculaires
+T49	patho 1427 1433	uvéite
+T50	patho 1436 1458	Affections vasculaires
+T51	patho 1471 1482	hypotension
+T52	patho 1484 1495	vascularite
+T53	patho 1498 1522	Affections respiratoires
+T54	patho 1589 1602	bronchospasme
+T55	patho 1605 1635	Affections gastro-intestinales
+T56	patho 1648 1660	vomissements
+T57	patho 1662 1669	nausées
+T58	patho 1671 1680	diarrhées
+T59	patho 1682 1702	douleurs abdominales
+T60	patho 1705 1750	Affections de la peau et du tissu sous-cutané
+T61	patho 1763 1767	rash
+T62	patho 1769 1777	alopécie
+T63	patho 1779 1785	prurit
+T64	patho 1787 1796	urticaire
+T65	patho 1798 1817	érythème polymorphe
+T66	patho 1819 1829	angioedème
+T67	patho 1831 1837	eczéma
+T68	patho 1840 1871	Affections musculosquelettiques
+T69	patho 1899 1910	arthralgies
+T70	patho 1912 1921	arthrites
+T71	patho 1923 1931	myalgies
+T72	patho 1933 1955	douleur des extrémités
+T73	patho 1985 2017	élévation des enzymes hépatiques
+T74	patho 2053 2058	Apnée
+T76	patho 2187 2206	effets indésirables
+T77	patho 2236 2255	effets indésirables
+T78	trt 2288 2298	médicament
+T79	proc 2332 2344	surveillance
+T80	trt 2384 2394	médicament
+T81	patho 2440 2457	effet indésirable
+T3	patho 108 137	réactions au site d'injection
+T15	patho 595 604;614 633	réactions au site d'injection
+T82	patho 719 743	symptômes pseudogrippaux
+T83	patho 1229 1278	Maladie démyélinisante du système nerveux central
+T84	patho 1498 1508;1524 1535	Affections thoraciques
+T85	patho 1498 1508;1539 1552	Affections médiastinales

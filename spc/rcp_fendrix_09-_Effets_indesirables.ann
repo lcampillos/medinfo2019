@@ -1,0 +1,97 @@
+T1	patho 3 22	effets indésirables
+T2	trt 110 117	Fendrix
+T3	trt 279 285	vaccin
+T4	trt 364 371	Fendrix
+T5	proc 617 633	primovaccination
+T6	trt 638 645	Fendrix
+T7	proc 701 712	vaccination
+T8	patho 976 1005	Affections du système nerveux
+T9	patho 1037 1067	Affections gastro-intestinales
+T10	patho 1079 1106	troubles gastro-intestinaux
+T11	patho 1112 1129	Troubles généraux
+T12	patho 1189 1196	fatigue
+T13	patho 1198 1205	douleur
+T14	patho 1217 1223	fièvre
+T16	patho 1257 1264	rougeur
+T17	proc 1341 1352	vaccination
+T18	patho 1389 1397	frissons
+T19	patho 1406 1435	réactions au site d'injection
+T21	patho 1439 1459	rash maculo-papuleux
+T22	trt 1509 1516	Fendrix
+T24	proc 1760 1776	primovaccination
+T25	trt 1797 1804	Fendrix
+T26	trt 1825 1847	vaccin de l'hépatite B
+T27	duree 1872 1884	0, 1, 2 mois
+T28	patho 1891 1910	effets indésirables
+T29	patho 1954 1991	réactions locales au site d'injection
+T31	proc 1997 2008	vaccination
+T32	trt 2013 2020	Fendrix
+T33	trt 2083 2089	vaccin
+T34	patho 2107 2134	douleur au site d'injection
+T36	patho 2215 2233	symptômes généraux
+T37	patho 2321 2340	effets indésirables
+T38	proc 2390 2406	primovaccination
+T39	trt 2411 2418	Fendrix
+T40	proc 2475 2486	vaccination
+T41	patho 2531 2560	Affections du système nerveux
+T42	patho 2587 2609	Affection de l'oreille
+T43	patho 2634 2641	vertige
+T44	patho 2647 2677	Affections gastro-intestinales
+T45	patho 2689 2716	troubles gastro-intestinaux
+T46	patho 2722 2754	Affections musculo-squelettiques
+T47	patho 2777 2786	tendinite
+T48	patho 2788 2798	mal de dos
+T49	patho 2804 2830	Infections et infestations
+T50	patho 2838 2854	infection virale
+T51	patho 2860 2877	Troubles généraux
+T53	patho 2969 2976	fatigue
+T54	patho 2978 2985	douleur
+T55	patho 2987 2994	rougeur
+T56	patho 3006 3012	fièvre
+T58	patho 3070 3078	frissons
+T59	patho 3080 3099	bouffées de chaleur
+T60	patho 3101 3105	soif
+T61	patho 3121 3153	Affection du système immunitaire
+T62	patho 3175 3200	Affections psychiatriques
+T63	patho 3208 3217	nervosité
+T64	patho 3278 3297	effets indésirables
+T65	proc 3373 3389	primovaccination
+T66	proc 3516 3532	primovaccination
+T67	trt 3557 3595	vaccin contre le virus de l'hépatite B
+T69	trt 3629 3668	vaccins contre le virus de l'hépatite B
+T70	patho 3714 3721	syncope
+T71	patho 3723 3732	paralysie
+T72	patho 3734 3745	neuropathie
+T73	patho 3747 3754	névrite
+T74	patho 3766 3792	syndrome de Guillain-Barré
+T75	patho 3794 3809	névrite optique
+T76	patho 3813 3832	sclérose en plaques
+T77	patho 3835 3846	encéphalite
+T78	patho 3848 3863	encéphalopathie
+T79	patho 3865 3874	méningite
+T80	patho 3878 3889	convulsions
+T81	trt 3920 3926	vaccin
+T82	patho 3952 3971	choc anaphylactique
+T83	patho 3977 3998	réactions allergiques
+T84	patho 4013 4038	réactions anaphylactoïdes
+T85	patho 4046 4070	pseudo maladies sériques
+T86	trt 4119 4142	vaccins de l'hépatite B
+T87	patho 4164 4183	effets indésirables
+T88	patho 4213 4232	effets indésirables
+T89	trt 4265 4275	médicament
+T90	proc 4309 4321	surveillance
+T91	trt 4361 4371	médicament
+T92	patho 4417 4434	effet indésirable
+T93	patho 1133 1172	anomalies liés au site d'administration
+T15	patho 1225 1255	gonflement au site d'injection
+T20	patho 2038 2047	symptômes
+T23	patho 2587 2596;2613 2626	Affection du labyrinthe
+T30	patho 2722 2732;2758 2769	Affections systémiques
+T35	patho 2881 2920	anomalies liés au site d'administration
+T52	patho 2937 2967	gonflement au site d'injection
+T57	patho 3034 3062	réaction au site d'injection
+T94	patho 3107 3115	asthénie
+T68	age 210 232	âgés de plus de 15 ans
+T95	patho 1022 1031	céphalées
+T96	patho 2572 2581	céphalées
+T97	patho 3161 3169	allergie

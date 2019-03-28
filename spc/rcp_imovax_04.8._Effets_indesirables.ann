@@ -1,0 +1,57 @@
+T1	patho 5 24	effets indésirables
+T2	patho 29 48	effets indésirables
+T3	trt 508 520	IMOVAX POLIO
+T5	trt 749 755	vaccin
+T6	patho 1004 1023	effets indésirables
+T7	trt 1067 1073	vaccin
+T8	patho 1083 1121	réactions locales au point d'injection
+T10	patho 1123 1130	douleur
+T11	patho 1132 1139	rougeur
+T12	patho 1141 1151	induration
+T13	patho 1159 1176	fièvre supérieure
+T14	patho 1188 1221	Affections du système immunitaire
+T15	patho 1247 1274	réaction d'hypersensibilité
+T16	trt 1310 1316	vaccin
+T17	patho 1327 1336	urticaire
+T18	patho 1340 1350	angioedème
+T19	patho 1352 1375	réaction anaphylactique
+T20	patho 1379 1398	choc anaphylactique
+T21	patho 1401 1426	Affections psychiatriques
+T22	patho 1452 1461	agitation
+T23	patho 1463 1473	somnolence
+T24	patho 1477 1489	irritabilité
+T25	proc 1537 1548	vaccination
+T26	patho 1579 1608	Affections du système nerveux
+T27	patho 1634 1645	convulsions
+T28	patho 1672 1678	fièvre
+T29	proc 1706 1717	vaccination
+T30	patho 1719 1728	céphalées
+T31	patho 1730 1742	paresthésies
+T32	duree 1827 1840	deux semaines
+T33	proc 1850 1861	vaccination
+T34	patho 1864 1909	Affections de la peau et du tissu sous-cutané
+T35	patho 1935 1939	rash
+T36	patho 1942 1989	Affections musculo-squelettiques et systémiques
+T37	patho 2015 2026	arthralgies
+T38	patho 2055 2063	myalgies
+T39	proc 2090 2101	vaccination
+T40	patho 2104 2159	Troubles généraux et anomalies au site d'administration
+T41	patho 2176 2203	douleur au site d'injection
+T43	patho 2205 2222	fièvre supérieure
+T44	patho 2245 2272	rougeur au site d'injection
+T46	patho 2290 2320	induration au site d'injection
+T48	patho 2348 2365	lymphadénopathies
+T49	patho 2367 2404	réactions locales au site d'injection
+T51	patho 2414 2420	oedème
+T52	duree 2447 2456	48 heures
+T53	proc 2468 2479	vaccination
+T54	duree 2494 2510	un ou deux jours
+T55	patho 2583 2588	Apnée
+T57	patho 2695 2714	effets indésirables
+T58	patho 2744 2763	effets indésirables
+T59	trt 2796 2806	médicament
+T60	proc 2840 2852	surveillance
+T61	trt 2892 2902	médicament
+T62	patho 2948 2965	effet indésirable
+T63	trt 3048 3058	médicament
+T4	patho 778 801	événements indésirables

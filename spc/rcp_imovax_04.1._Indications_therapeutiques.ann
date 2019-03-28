@@ -1,0 +1,7 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 35 41	vaccin
+T3	proc 62 72	prévention
+T4	patho 79 91	poliomyélite
+T5	trt 175 187	IMOVAX POLIO
+T6	proc 142 159	primo-vaccination
+T7	proc 166 172	rappel

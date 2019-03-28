@@ -1,0 +1,12 @@
+T1	trt 15 21	Hexyon
+T2	age 92 109	âge de 6 semaines
+T3	proc 118 134	primovaccination
+T4	proc 141 152	vaccination
+T5	trt 156 182	rappel contre la diphtérie
+T6	patho 187 194	tétanos
+T7	patho 199 209	coqueluche
+T8	patho 213 223	hépatite B
+T9	patho 228 240	poliomyélite
+T10	patho 248 298	maladies invasives à Haemophilus influenzae type b
+T11	trt 326 332	vaccin
+T12	trt 23 44	D-T-Polio-Ca-Hib-HepB

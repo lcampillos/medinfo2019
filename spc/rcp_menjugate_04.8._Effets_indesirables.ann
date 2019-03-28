@@ -1,0 +1,144 @@
+T1	patho 5 24	effets indésirables
+T2	patho 43 65	réactions indésirables
+T3	patho 103 125	réactions indésirables
+T4	patho 442 461	effets indésirables
+T5	patho 591 610	effets indésirables
+T6	patho 502 521	effets indésirables
+T7	proc 644 655	vaccination
+T8	duree 687 703	au moins 3 jours
+T9	duree 715 722	6 jours
+T10	patho 741 750	réactions
+T11	patho 854 883	réactions au site d'injection
+T13	patho 894 901	rougeur
+T14	patho 903 909	oedème
+T15	patho 911 922	sensibilité
+T16	patho 926 933	douleur
+T17	patho 1067 1076	réactions
+T18	patho 1136 1144	rougeurs
+T19	patho 1148 1154	oedème
+T20	patho 1184 1195	sensibilité
+T21	duree 1231 1248	plus de 48 heures
+T22	patho 1303 1309	fièvre
+T23	patho 1598 1604	pleurs
+T24	patho 1612 1624	vomissements
+T25	proc 1678 1689	vaccination
+T26	patho 1692 1704	Irritabilité
+T27	patho 1706 1716	somnolence
+T28	patho 1718 1737	troubles du sommeil
+T29	patho 1739 1747	anorexie
+T30	patho 1749 1757	diarrhée
+T31	patho 1761 1772	vomissement
+T32	proc 1816 1827	vaccination
+T33	trt 1865 1874	MENJUGATE
+T34	trt 1887 1894	vaccins
+T35	patho 1971 1990	effets indésirables
+T36	patho 2034 2042	Myalgies
+T37	patho 2050 2061	arthralgies
+T38	patho 2084 2094	somnolence
+T39	patho 2158 2167	céphalées
+T40	patho 2304 2323	effets indésirables
+T41	patho 2364 2419	Troubles généraux et anomalies au site d'administration
+T42	patho 2436 2465	réactions au site d'injection
+T44	patho 2467 2474	rougeur
+T45	patho 2476 2482	oedème
+T46	patho 2486 2497	sensibilité
+T47	patho 2498 2505	douleur
+T48	patho 2518 2524	fièvre
+T49	patho 2541 2550	réactions
+T51	patho 2653 2683	Affections gastro-intestinales
+T52	patho 2700 2708	diarrhée
+T53	patho 2712 2720	anorexie
+T54	patho 2722 2734	vomissements
+T55	patho 2760 2772	vomissements
+T56	patho 2790 2845	Troubles généraux et anomalies au site d'administration
+T57	patho 2863 2875	Irritabilité
+T58	patho 2877 2887	somnolence
+T59	patho 2891 2910	troubles du sommeil
+T60	patho 2923 2929	Pleurs
+T61	patho 2937 2946	réactions
+T62	patho 3000 3030	Affections gastro-intestinales
+T63	patho 3047 3054	Nausées
+T64	patho 3065 3097	Affections musculo-squelettiques
+T65	patho 3129 3137	Myalgies
+T66	patho 3141 3152	arthralgies
+T67	patho 3153 3208	Troubles généraux et anomalies au site d'administration
+T68	patho 3225 3233	Malaises
+T69	patho 3235 3244	céphalées
+T70	patho 3286 3295	céphalées
+T71	trt 3377 3386	MENJUGATE
+T72	trt 3432 3441	MENJUGATE
+T73	age 3522 3545	âgés de 12 mois à 2 ans
+T75	trt 3596 3605	MENJUGATE
+T76	patho 3625 3644	effets indésirables
+T77	patho 3718 3727	réactions
+T78	patho 3818 3824	fièvre
+T79	patho 3826 3835	céphalées
+T80	patho 3837 3844	Nausées
+T81	patho 3846 3858	vomissements
+T82	patho 3862 3869	syncope
+T83	trt 3970 3976	vaccin
+T84	trt 3989 4013	vaccins méningococciques
+T85	patho 4153 4186	Affections du système immunitaire
+T86	patho 4199 4215	Lymphadénopathie
+T87	patho 4217 4228	anaphylaxie
+T88	patho 4240 4259	choc anaphylactique
+T89	patho 4261 4289	réactions d'hypersensibilité
+T90	patho 4308 4321	bronchospasme
+T91	patho 4323 4336	oedème facial
+T92	patho 4340 4352	angio-oedème
+T93	patho 4355 4384	Affections du système nerveux
+T94	patho 4397 4419	Sensation vertigineuse
+T95	patho 4421 4432	convulsions
+T96	patho 4442 4462	convulsions fébriles
+T97	patho 4464 4471	syncope
+T98	patho 4473 4485	hypoesthésie
+T99	patho 4489 4500	paresthésie
+T100	patho 4502 4511	hypotonie
+T101	patho 4533 4551	crises convulsives
+T102	proc 4581 4592	vaccination
+T103	trt 4597 4606	MENJUGATE
+T104	patho 4674 4692	crises convulsives
+T105	patho 4723 4731	syncopes
+T106	patho 4745 4763	crises convulsives
+T107	patho 4823 4832	épilepsie
+T108	patho 4875 4893	crises convulsives
+T109	patho 4933 4939	fièvre
+T110	patho 4973 4993	convulsions fébriles
+T111	patho 5017 5033	troubles visuels
+T112	patho 5040 5052	photophobies
+T113	proc 5083 5094	vaccination
+T114	trt 5104 5150	vaccins conjugués méningococciques du groupe C
+T115	patho 5187 5210	symptômes neurologiques
+T116	patho 5220 5229	céphalées
+T117	patho 5233 5241	vertiges
+T118	patho 5244 5298	Affections respiratoires, thoraciques et médiastinales
+T119	patho 5299 5304	Apnée
+T121	patho 5398 5428	Affections gastro-intestinales
+T122	patho 5441 5448	Nausées
+T123	patho 5450 5462	vomissements
+T124	patho 5466 5474	diarrhée
+T125	patho 5475 5520	Affections de la peau et du tissu sous-cutané
+T126	patho 5533 5551	Eruptions cutanées
+T127	patho 5553 5562	urticaire
+T128	patho 5564 5570	prurit
+T129	patho 5572 5579	purpura
+T130	patho 5581 5600	érythème polymorphe
+T131	patho 5604 5631	syndrome de Stevens-Johnson
+T132	patho 5632 5664	Affections musculo-squelettiques
+T133	patho 5692 5700	Myalgies
+T134	patho 5704 5715	arthralgies
+T135	patho 5716 5771	Troubles généraux et anomalies au site d'administration
+T136	patho 5784 5794	gonflement
+T137	proc 5812 5819	vacciné
+T138	patho 5823 5830	rechute
+T139	patho 5836 5856	syndrome néphrotique
+T140	trt 5897 5921	vaccins méningococciques
+T141	patho 5962 5981	effets indésirables
+T142	patho 6011 6030	effets indésirables
+T143	trt 6063 6073	médicament
+T144	proc 6107 6119	surveillance
+T145	trt 6159 6169	médicament
+T146	patho 6215 6232	effet indésirable
+T147	trt 6315 6325	médicament
+T12	trt 1937 1941	DTCa
+T43	patho 3065 3075;3101 3112	Affections systémiques

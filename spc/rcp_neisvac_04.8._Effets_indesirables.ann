@@ -1,0 +1,244 @@
+T1	patho 5 24	effets indésirables
+T2	patho 120 139	effets indésirables
+T3	patho 63 82	effets indésirables
+T4	trt 229 236	NEISVAC
+T5	age 273 301	âgés de 2 mois à &lt;18 mois
+T7	age 329 357	âgés de 3,5 ans à &lt;18 ans
+T8	patho 413 432	effets indésirables
+T9	patho 669 688	effets indésirables
+T10	age 749 777	âgés de 2 mois à &lt;18 mois
+T12	age 786 815	âgés de 3,5 ans à &lt; 18 ans
+T13	patho 838 880	TROUBLES DU METABOLISME ET DE LA NUTRITION
+T14	patho 881 896	Perte d'appétit
+T15	patho 901 930	AFFECTIONS DU SYSTEME NERVEUX
+T16	patho 931 937	Pleurs
+T17	patho 938 946	Sédation
+T18	patho 947 957	Somnolence
+T19	patho 958 970	Maux de tête
+T20	patho 971 983	Maux de tête
+T21	patho 984 1014	AFFECTIONS GASTRO-INTESTINALES
+T22	patho 1015 1026	Vomissement
+T23	patho 1031 1048	TROUBLES GENERAUX
+T24	patho 1087 1099	Irritabilité
+T25	patho 1101 1108	Fatigue
+T26	patho 1111 1117	Fièvre
+T27	patho 1118 1127	Réactions
+T28	trt 1149 1158	injection
+T29	patho 1168 1175	Douleur
+T30	patho 1176 1187	sensibilité
+T31	patho 1189 1199	gonflement
+T32	patho 1203 1211	érythème
+T33	patho 1212 1221	Réactions
+T34	trt 1243 1252	injection
+T35	patho 1262 1269	Douleur
+T36	patho 1270 1281	sensibilité
+T37	patho 1283 1293	gonflement
+T38	patho 1297 1305	érythème
+T39	patho 1306 1315	Réactions
+T40	trt 1337 1346	injection
+T41	patho 1356 1363	Douleur
+T42	patho 1364 1375	sensibilité
+T43	patho 1377 1387	gonflement
+T44	patho 1391 1408	érythème Fréquent
+T45	patho 1409 1435	INFECTIONS ET INFESTATIONS
+T46	patho 1436 1446	Pharyngite
+T47	patho 1447 1454	Rhinite
+T48	patho 1455 1465	Pharyngite
+T49	patho 1466 1473	Rhinite
+T50	patho 1476 1501	AFFECTIONS PSYCHIATRIQUES
+T51	patho 1502 1511	Agitation
+T52	patho 1512 1521	Nervosité
+T53	patho 1522 1541	Troubles du sommeil
+T54	patho 1575 1604	AFFECTIONS DU SYSTEME NERVEUX
+T55	patho 1607 1631	Sensations vertigineuses
+T56	patho 1633 1641	Sédation
+T57	patho 1642 1652	Somnolence
+T58	patho 1655 1709	AFFECTIONS RESPIRATOIRES, THORACIQUES ET MEDIASTINALES
+T59	patho 1710 1714	Toux
+T60	patho 1715 1719	Toux
+T61	patho 1722 1752	AFFECTIONS GASTRO-INTESTINALES
+T62	patho 1753 1761	Diarrhée
+T63	patho 1762 1768	Nausée
+T64	patho 1770 1788	Douleur abdominale
+T65	patho 1790 1801	Vomissement
+T66	patho 1803 1811	Diarrhée
+T67	patho 1812 1823	Vomissement
+T68	patho 1824 1869	AFFECTIONS DE LA PEAU ET DU TISSU SOUS-CUTANE
+T69	patho 1870 1874	Rash
+T70	patho 1876 1888	Hyperhidrose
+T71	patho 1889 1895	Prurit
+T72	patho 1897 1906	Ecchymose
+T73	patho 1908 1917	dermatite
+T74	patho 1920 1952	AFFECTIONS MUSCULO-SQUELETTIQUES
+T75	patho 1970 1997	Douleur dans les extrémités
+T76	patho 1998 2005	Myalgie
+T77	patho 2006 2065	TROUBLES GENERAUX ET DES ANOMALIES AU SITE D'ADMINISTRATION
+T78	patho 2068 2074	Fièvre
+T79	patho 2076 2083	Malaise
+T80	patho 2085 2092	Fatigue
+T81	patho 2093 2100	Malaise
+T82	patho 2102 2108	Fièvre
+T83	patho 2122 2173	AFFECTIONS HEMATOLOGIQUES ET DU SYSTEME LYMPHATIQUE
+T84	patho 2176 2193	Lymphadénopathies
+T85	patho 2213 2246	AFFECTIONS DU SYSTEME IMMUNITAIRE
+T86	patho 2249 2277	Réactions d'hypersensibilité
+T87	patho 2289 2302	bronchospasme
+T88	patho 2306 2348	TROUBLES DU METABOLISME ET DE LA NUTRITION
+T89	patho 2351 2366	Perte d'appétit
+T90	patho 2369 2394	AFFECTIONS PSYCHIATRIQUES
+T91	patho 2397 2406	Agitation
+T92	patho 2407 2416	Nervosité
+T93	patho 2419 2448	AFFECTIONS DU SYSTEME NERVEUX
+T94	patho 2451 2473	Anomalies sensorielles
+T95	patho 2475 2486	paresthésie
+T96	patho 2488 2508	sensation de brûlure
+T97	patho 2510 2522	hypoesthésie
+T98	patho 2525 2532	Syncope
+T99	patho 2534 2540	Pleurs
+T100	patho 2542 2553	Convulsions
+T101	patho 2556 2576	AFFECTIONS OCULAIRES
+T102	patho 2579 2600	OEdème de la paupière
+T103	patho 2603 2625	AFFECTIONS VASCULAIRES
+T104	patho 2626 2645	Bouffées de chaleur
+T105	patho 2646 2665	Bouffées de chaleur
+T106	patho 2668 2722	AFFECTIONS RESPIRATOIRES, THORACIQUES ET MEDIASTINALES
+T107	patho 2725 2742	Congestion nasale
+T108	patho 2745 2775	AFFECTIONS GASTRO-INTESTINALES
+T109	patho 2776 2794	Douleur abdominale
+T110	patho 2795 2804	Dyspepsie
+T111	patho 3130 3185	TROUBLES GENERAUX ET ANOMALIES AU SITE D'ADMINISTRATION
+T112	patho 2853 2861	Erythème
+T113	patho 2862 2874	Hyperhidrose
+T114	patho 2876 2880	Rash
+T115	patho 2883 2915	AFFECTIONS MUSCULO-SQUELETTIQUES
+T116	patho 2931 2958	Douleur dans les extrémités
+T117	patho 2959 2987	Raideur musculo-squelettique
+T118	patho 3002 3009	Raideur
+T119	patho 3034 3053	raideur articulaire
+T120	patho 3056 3080	Douleur au niveau du cou
+T121	patho 3082 3089	Myalgie
+T122	patho 3091 3101	Arthralgie
+T123	patho 3103 3127	Douleur au niveau du dos
+T125	patho 3186 3205	OEdème périphérique
+T126	patho 3207 3214	Malaise
+T127	patho 3216 3224	Frissons
+T128	patho 3225 3237	Irritabilité
+T129	patho 3239 3247	Asthénie
+T130	patho 3249 3268	OEdème périphérique
+T131	patho 3270 3278	Frissons
+T132	patho 3279 3302	Syndrome pseudo-grippal
+T133	patho 3308 3341	AFFECTIONS DU SYSTEME IMMUNITAIRE
+T134	patho 3342 3370	Réactions d'hypersensibilité
+T135	patho 3382 3395	bronchospasme
+T136	patho 3401 3421	AFFECTIONS OCULAIRES
+T137	patho 3422 3443	OEdème de la paupière
+T138	patho 3448 3470	AFFECTIONS VASCULAIRES
+T139	patho 3494 3516	Collapsus circulatoire
+T140	patho 3471 3493	Collapsus circulatoire
+T141	patho 3519 3564	AFFECTIONS DE LA PEAU ET DU TISSU SOUS-CUTANE
+T142	patho 3565 3574	Ecchymose
+T143	patho 3579 3634	AFFECTIONS MUSCULO-SQUELETTIQUES ET DU TISSU CONJONCTIF
+T144	patho 3635 3663	Raideur musculo-squelettique
+T145	patho 3678 3692	raideur du cou
+T146	patho 3700 3719	raideur articulaire
+T147	patho 3725 3742	TROUBLES GENERAUX
+T148	patho 3783 3806	Syndrome pseudo-grippal
+T149	patho 3883 3912	Affections du système nerveux
+T150	proc 3966 3982	primovaccination
+T151	proc 4001 4012	vaccination
+T152	age 4017 4030	âge de 4 mois
+T153	age 4038 4051	âge de 6 mois
+T154	proc 4071 4087	primovaccination
+T155	proc 4102 4114	vaccinations
+T156	age 4119 4132	âge de 2 mois
+T157	age 4140 4153	âge de 4 mois
+T158	patho 4160 4177	réactions locales
+T159	patho 4315 4334	effets indésirables
+T160	patho 4376 4395	effets indésirables
+T162	patho 4486 4495	dermatite
+T163	proc 4605 4617	surveillance
+T164	patho 4646 4665	effets indésirables
+T165	patho 4921 4929	réaction
+T166	patho 4930 4981	AFFECTIONS HEMATOLOGIQUES ET DU SYSTEME LYMPHATIQUE
+T167	patho 4982 5017	Purpura thrombopénique idiopathique
+T168	patho 5019 5036	Lymphadénopathies
+T169	patho 5037 5070	AFFECTIONS DU SYSTEME IMMUNITAIRE
+T170	patho 5071 5082	Anaphylaxie
+T171	patho 5084 5096	angio-oedème
+T172	patho 5107 5120	oedème facial
+T173	patho 5123 5151	Réactions d'hypersensibilité
+T174	patho 5163 5176	bronchospasme
+T175	patho 5178 5220	TROUBLES DU METABOLISME ET DE LA NUTRITION
+T176	patho 5221 5236	Perte d'appétit
+T177	patho 5237 5262	AFFECTIONS PSYCHIATRIQUES
+T178	patho 5263 5281	Trouble du sommeil
+T179	patho 5320 5349	AFFECTIONS DU SYSTEME NERVEUX
+T180	patho 5350 5370	Convulsions fébriles
+T181	patho 5372 5383	Convulsions
+T182	patho 5385 5395	Méningisme
+T183	patho 5433 5440	Syncope
+T184	patho 5442 5466	Sensations vertigineuses
+T185	patho 5468 5490	Anomalies sensorielles
+T186	patho 5501 5512	paresthésie
+T187	patho 5514 5534	sensation de brûlure
+T188	patho 5536 5548	hypoesthésie
+T189	patho 5551 5562	Hypersomnie
+T190	patho 5563 5617	AFFECTIONS RESPIRATOIRES, THORACIQUES ET MEDIASTINALES
+T191	patho 5618 5623	Apnée
+T192	patho 5625 5632	Dyspnée
+T193	patho 5634 5645	Sifflements
+T194	patho 5647 5664	Congestion nasale
+T195	patho 5665 5692	TROUBLES GASTRO-INTESTINAUX
+T196	patho 5693 5700	Nausées
+T197	patho 5701 5746	AFFECTIONS DE LA PEAU ET DU TISSU SOUS-CUTANE
+T198	patho 5747 5774	Syndrome de Stevens-Johnson
+T199	patho 5776 5795	Erythème polymorphe
+T200	patho 5797 5806	Pétéchies
+T201	patho 5808 5815	Purpura
+T202	patho 5817 5826	Urticaire
+T203	patho 5828 5846	Eruptions cutanées
+T204	patho 5849 5857	Erythème
+T205	patho 5858 5890	AFFECTIONS MUSCULO-SQUELETTIQUES
+T206	patho 5906 5936	raideurs musculo-squelettiques
+T207	patho 5951 5976	raideurs au niveau du cou
+T208	patho 5984 6005	raideurs articulaires
+T209	patho 6008 6033	Douleurs au niveau du cou
+T210	patho 6035 6063	Douleurs dans les extrémités
+T211	patho 6064 6081	TROUBLES GENERAUX
+T212	patho 6085 6119	ANOMALIES AU SITE D'ADMINISTRATION
+T213	patho 6143 6151	Asthénie
+T214	patho 6153 6160	Fatigue
+T215	patho 6162 6170	Frissons
+T216	patho 6185 6211	éruption maculovésiculaire
+T217	patho 6217 6237	éruption vésiculaire
+T218	patho 6273 6291	éruption papulaire
+T219	patho 6243 6267	éruption maculopapulaire
+T220	patho 6297 6315	éruption maculaire
+T221	patho 6321 6339	boutons de chaleur
+T222	patho 6345 6367	éruption érythémateuse
+T223	patho 6373 6393	éruption généralisée
+T224	patho 6399 6407	éruption
+T225	patho 6413 6419	Prurit
+T226	patho 6422 6431	Réactions
+T227	patho 6446 6453	rechute
+T228	patho 6459 6479	syndrome néphrotique
+T229	trt 6520 6566	vaccins conjugués méningococciques du groupe C
+T230	patho 6602 6621	effets indésirables
+T231	patho 6651 6670	effets indésirables
+T232	trt 6703 6713	médicament
+T233	proc 6747 6759	surveillance
+T234	trt 6799 6809	médicament
+T235	patho 6855 6872	effet indésirable
+T236	trt 6955 6965	médicament
+T237	patho 1052 1086	ANOMALIES AU SITE D'ADMINISTRATION
+T238	patho 1543 1569	problèmes d'endormissement
+T239	patho 1920 1930;1956 1967	AFFECTIONS SYSTEMIQUES
+T241	patho 2194 2212	Lymphadénopath-ies
+T242	patho 2883 2893;2919 2930	AFFECTIONS SYSTEMIQUES
+T243	patho 3746 3780	ANOMALIES AU SITE D'ADMINISTRATION
+T161	patho 4448 4478	induration au site d'injection
+T244	patho 5292 5318	problèmes d'endormissement
+T245	patho 5407 5431	hypotonie-hyporéactivité
+T246	patho 5858 5868;5894 5905	AFFECTIONS SYSTEMIQUES
+T247	patho 6120 6141	OEdèmes périphériques
+T6	patho 2809 2852	TROUBLES DE LA PEAU ET DU TISSU SOUS-CUTANE

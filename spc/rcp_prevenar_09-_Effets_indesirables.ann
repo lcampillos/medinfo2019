@@ -1,0 +1,267 @@
+T1	patho 3 22	effets indésirables
+T2	patho 122 133	Convulsions
+T3	patho 158 164	fièvre
+T4	patho 181 205	hypotonie-hyporéactivité
+T5	trt 253 264	Prevenar 13
+T6	trt 270 283	Infanrix hexa
+T7	trt 318 329	Prevenar 13
+T8	patho 341 360	effets indésirables
+T9	age 836 862	âgés de 6 semaines à 5 ans
+T11	trt 878 884	vaccin
+T13	proc 1071 1082	vaccination
+T14	trt 1170 1181	Prevenar 13
+T15	trt 1211 1218	vaccins
+T16	age 1302 1324	âgés de 7 mois à 5 ans
+T18	proc 1344 1352	vaccinés
+T19	patho 1383 1402	effets indésirables
+T20	age 1451 1477	âgés de 6 semaines à 5 ans
+T22	patho 1490 1522	réactions au site de vaccination
+T23	patho 1530 1536	fièvre
+T24	patho 1543 1555	irritabilité
+T25	patho 1561 1576	Perte d'appétit
+T26	patho 1584 1595	hypersomnie
+T27	patho 1605 1620	sommeil diminué
+T28	proc 1675 1683	vaccinés
+T29	age 1688 1709	âge de 2, 3 et 4 mois
+T30	patho 1739 1745	fièvre
+T31	proc 1792 1800	vaccinés
+T32	trt 1806 1814	Prevenar
+T33	trt 1855 1868	Infanrix hexa
+T34	proc 1906 1914	vaccinés
+T35	trt 1920 1933	Infanrix hexa
+T36	age 2003 2023	âge de 12 et 15 mois
+T37	patho 2036 2042	fièvre
+T38	proc 2088 2096	vaccinés
+T39	trt 2116 2124	Prevenar
+T40	trt 2139 2152	Infanrix hexa
+T41	proc 2178 2186	vaccinés
+T42	trt 2192 2205	Infanrix hexa
+T43	patho 2217 2226	réactions
+T44	patho 2338 2370	réactions au site de vaccination
+T45	age 2404 2427	âgés de plus de 12 mois
+T46	proc 2494 2510	primovaccination
+T47	trt 2515 2526	Prevenar 13
+T48	patho 2533 2552	effets indésirables
+T49	trt 2639 2650	Prevenar 13
+T50	trt 2679 2687	Prevenar
+T51	patho 2735 2754	effets indésirables
+T52	trt 2782 2793	Prevenar 13
+T53	patho 2796 2829	Affections du système immunitaire
+T54	patho 2839 2866	Réaction d'hypersensibilité
+T55	patho 2872 2885	oedème facial
+T56	patho 2887 2894	dyspnée
+T57	patho 2896 2909	bronchospasme
+T58	patho 2910 2939	Affections du système nerveux
+T59	patho 2957 2968	Convulsions
+T60	patho 2980 3000	convulsions fébriles
+T61	patho 3019 3043	hypotonie-hyporéactivité
+T62	patho 3044 3074	Affections gastro-intestinales
+T63	patho 3093 3108	Perte d'appétit
+T64	patho 3124 3135	vomissement
+T65	patho 3138 3146	diarrhée
+T66	patho 3147 3192	Affections de la peau et du tissu sous-cutané
+T67	patho 3206 3214	Eruption
+T68	patho 3230 3239	urticaire
+T69	patho 3243 3251	éruption
+T70	patho 3273 3328	Troubles généraux et anomalies au site d'administration
+T71	patho 3347 3353	fièvre
+T72	patho 3356 3368	irritabilité
+T73	patho 3371 3379	érythème
+T74	patho 3381 3391	induration
+T75	patho 3392 3403	tuméfaction
+T76	patho 3407 3414;3427 3449	douleur au site de vaccination
+T77	patho 3415 3449	sensibilité au site de vaccination
+T79	patho 3452 3462	somnolence
+T80	patho 3465 3492	sommeil de mauvaise qualité
+T81	patho 3507 3517;3530 3549	induration au site d'injection
+T82	patho 3518 3549	tuméfaction au site d'injection
+T84	age 3623 3640	âgés de 2 à 5 ans
+T85	patho 3654 3660	fièvre
+T86	proc 3710 3721	vaccination
+T87	patho 3732 3739	douleur
+T88	patho 3743 3751	érythème
+T89	patho 3755 3765;3778 3800	induration au site de vaccination
+T90	patho 3766 3800	tuméfaction au site de vaccination
+T91	proc 3825 3836	vaccination
+T93	patho 3882 3892;3917 3939	induration au site de vaccination
+T94	patho 3893 3904;3917 3939	tuméfaction au site de vaccination
+T96	patho 3942 3948	pleurs
+T97	patho 3956 3975	effets indésirables
+T98	trt 3979 3990	Prevenar 13
+T99	patho 4032 4051	effets indésirables
+T100	trt 4152 4163	Prevenar 13
+T101	patho 4195 4214	effets indésirables
+T102	trt 4218 4229	Prevenar 13
+T103	patho 4291 4310	effets indésirables
+T104	patho 4439 4490	Affections hématologiques et du système lymphatique
+T105	patho 4493 4509	Lymphadénopathie
+T106	proc 4544 4555	vaccination
+T107	patho 4557 4590	Affections du système immunitaire
+T108	patho 4593 4616	Réaction anaphylactique
+T109	patho 4646 4650	choc
+T110	patho 4653 4663	angioedème
+T111	patho 4664 4709	Affections de la peau et du tissu sous-cutané
+T112	patho 4712 4731	Erythème polymorphe
+T113	patho 4732 4787	Troubles généraux et anomalies au site d'administration
+T114	patho 4790 4799	urticaire
+T115	proc 4811 4822	vaccination
+T116	patho 4825 4852	dermite au site d'injection
+T119	patho 4968 4973	Apnée
+T121	age 5127 5145	âgés de 6 à 17 ans
+T122	trt 5282 5290	Prevenar
+T123	age 5306 5325	âgés de 10 à 17 ans
+T124	trt 5353 5374	vaccin pneumococcique
+T125	age 5409 5427	âgés de 6 à 17 ans
+T126	patho 5433 5452	effets indésirables
+T127	patho 5482 5511	Affections du système nerveux
+T128	patho 5525 5534	céphalées
+T129	patho 5535 5565	Affections gastro-intestinales
+T130	patho 5584 5607	diminution de l'appétit
+T131	patho 5619 5630	vomissement
+T132	patho 5633 5641	diarrhée
+T133	patho 5642 5687	Affections de la peau et du tissu sous-cutané
+T134	patho 5701 5717	Éruption cutanée
+T135	patho 5720 5729	urticaire
+T136	patho 5733 5741	éruption
+T137	patho 5751 5760	urticaire
+T138	patho 5761 5816	Troubles généraux et anomalies au site d'administration
+T139	patho 5835 5847	irritabilité
+T140	patho 5850 5881	érythème au site de vaccination
+T141	patho 5884 5894	induration
+T142	patho 5895 5905	gonflement
+T143	patho 5909 5916;5929 5951	douleur au site de vaccination
+T144	patho 5917 5951	sensibilité au site de vaccination
+T146	patho 5954 5964	somnolence
+T147	patho 5967 5994	sommeil de mauvaise qualité
+T148	patho 5997 6031	sensibilité au site de vaccination
+T150	patho 6076 6082	fièvre
+T151	patho 6112 6131	effets indésirables
+T152	age 6192 6218	âgés de 6 semaines à 5 ans
+T154	patho 6482 6495	drépanocytose
+T155	patho 6535 6554	effets indésirables
+T156	patho 6570 6579	céphalées
+T157	patho 6581 6593	vomissements
+T158	patho 6595 6603	diarrhée
+T159	patho 6605 6611	fièvre
+T160	patho 6613 6620	fatigue
+T161	patho 6622 6633	arthralgies
+T162	patho 6637 6645	myalgies
+T163	age 6814 6834	âgés de 18 à 101 ans
+T164	trt 6837 6848	Prevenar 13
+T165	age 6897 6916	âgés de 50 à 64 ans
+T166	age 7018 7037	âgés de 18 à 49 ans
+T167	trt 7049 7060	Prevenar 13
+T168	proc 7080 7088	vaccinés
+T169	trt 7109 7153	vaccin 23-valent pneumococcique polyosidique
+T170	proc 7174 7182	vaccinés
+T171	trt 7187 7198	Prevenar 13
+T172	proc 7222 7230	vaccinés
+T173	trt 7238 7282	vaccin 23-valent pneumococcique polyosidique
+T174	duree 7292 7297	3 ans
+T175	proc 7315 7326	vaccination
+T176	proc 7356 7364	vaccinés
+T177	trt 7372 7416	vaccin 23-valent pneumococcique polyosidique
+T178	patho 7464 7483	effets indésirables
+T179	proc 7586 7597	vaccination
+T180	patho 7645 7664	effets indésirables
+T181	patho 7703 7722	effets indésirables
+T182	age 7771 7790	âgés de 18 à 29 ans
+T183	patho 7901 7913	vomissements
+T184	age 7955 7974	âgés de 18 à 49 ans
+T185	patho 8051 8057	fièvre
+T186	age 8091 8110	âgés de 18 à 29 ans
+T187	patho 8161 8168;8192 8214	douleur au site de vaccination
+T188	patho 8169 8180;8192 8214	sensibilité au site de vaccination
+T190	age 8329 8340	18 à 39 ans
+T191	patho 8395 8414	effets indésirables
+T192	patho 8449 8466	réactions locales
+T193	proc 8541 8552	vaccination
+T194	duree 8561 8569	14 jours
+T195	duree 8595 8602	7 jours
+T196	patho 8672 8691	effets indésirables
+T197	proc 8719 8730	vaccination
+T198	trt 8736 8747	Prevenar 13
+T199	patho 8764 8806	Troubles du métabolisme et de la nutrition
+T200	patho 8823 8846	diminution de l'appétit
+T201	patho 8847 8876	Affections du système nerveux
+T202	patho 8893 8902	céphalées
+T203	patho 8903 8933	Affections gastro-intestinales
+T204	patho 8950 8958	diarrhée
+T205	patho 8960 8971	vomissement
+T206	patho 9024 9035	vomissement
+T207	patho 9093 9099	Nausée
+T208	patho 9100 9133	Affections du système immunitaire
+T209	patho 9149 9176	Réaction d'hypersensibilité
+T210	patho 9186 9203	oedème de la face
+T211	patho 9205 9212	dyspnée
+T212	patho 9214 9227	bronchospasme
+T213	patho 9228 9273	Affections de la peau et du tissu sous-cutané
+T214	patho 9290 9298	Éruption
+T215	patho 9299 9354	Troubles généraux et anomalies au site d'administration
+T216	patho 9371 9379	frissons
+T217	patho 9381 9388	fatigue
+T218	patho 9390 9418	érythème au site d'injection
+T220	patho 9421 9431;9443 9462	induration au site d'injection
+T221	patho 9432 9462	gonflement au site d'injection
+T223	patho 9464 9471;9495 9514	douleur au site d'injection
+T224	patho 9472 9483;9495 9514	sensibilité au site d'injection
+T226	age 9547 9566	âgés de 18 à 39 ans
+T227	age 9681 9700	âgés de 18 à 39 ans
+T228	patho 9713 9719	fièvre
+T229	age 9753 9772	âgés de 18 à 29 ans
+T230	patho 9789 9805	Lymphadénopathie
+T232	patho 9848 9893	Troubles musculo-squelettiques et systémiques
+T233	patho 9910 9921	arthralgies
+T234	patho 9923 9931	myalgies
+T235	patho 10018 10037	effets indésirables
+T236	trt 10044 10055	Prevenar 13
+T237	proc 10092 10100	vaccinés
+T238	trt 10109 10143	vaccin pneumococcique polyosidique
+T239	patho 10232 10247	infection à VIH
+T240	patho 10287 10306	effets indésirables
+T241	patho 10326 10338	vomissements
+T242	patho 10373 10380	nausées
+T243	proc 10440 10483	greffe de cellules souches hématopoïétiques
+T244	patho 10523 10542	effets indésirables
+T245	patho 10564 10570	fièvre
+T246	patho 10578 10590	vomissements
+T247	patho 10661 10682	réactions systémiques
+T248	trt 10709 10720	Prevenar 13
+T249	trt 10749 10763	vaccin grippal
+T250	trt 10796 10810	vaccin grippal
+T251	patho 10847 10856	céphalées
+T252	patho 10858 10866	frissons
+T253	patho 10868 10876	éruption
+T254	patho 10878 10901	diminution de l'appétit
+T255	patho 10903 10914	arthralgies
+T256	patho 10919 10927	myalgies
+T257	trt 10940 10951	Prevenar 13
+T258	patho 10975 10984	céphalées
+T259	patho 10986 10993	fatigue
+T260	patho 10995 11003	frissons
+T261	patho 11005 11028	diminution de l'appétit
+T262	patho 11032 11043	arthralgies
+T263	patho 11062 11081	effets indésirables
+T264	patho 11111 11130	effets indésirables
+T265	trt 11163 11173	médicament
+T266	proc 11206 11218	surveillance
+T267	trt 11258 11268	médicament
+T268	patho 11314 11331	effet indésirable
+T78	patho 3495 3503	Erythème
+T83	patho 3673 3698	altération des mouvements
+T92	patho 3872 3880	Erythème
+T95	patho 4593 4601;4617 4631	Réaction anaphylactoïde
+T269	patho 4884 4903	bouffée vasomotrice
+T117	patho 4855 4881	prurit au site d'injection
+T118	patho 8228 8238;8250 8272	limitation des mouvements du bras
+T145	patho 9569 9602	limitation des mouvements du bras
+T10	age 1024 1050	âgés d'au moins 6 semaines
+T12	age 1086 1096	11-16 mois
+T149	trt 1116 1122	rappel
+T17	age 5213 5231	âgés de 5 à 10 ans
+T21	age 6687 6709	âgés de 18 ans et plus
+T120	age 6937 6959	âgés de 65 ans et plus
+T153	age 7533 7555	âgés de plus de 65 ans
+T189	age 8991 9006	âgés de 18 à 49
+T219	age 9054 9076	âgés de 50 ans et plus
+T222	patho 9604 9614;9626 9648	limitation des mouvements du bras

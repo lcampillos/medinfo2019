@@ -1,0 +1,29 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 42 51	baclofène
+T3	patho 89 112	Contractures spastiques
+T4	patho 119 138	sclérose en plaques
+T5	patho 143 166	Contractures spastiques
+T6	patho 171 193	affections médullaires
+T7	patho 263 286	Contractures spastiques
+T8	duree 333 343	6 à 18 ans
+T9	trt 348 357	baclofène
+T10	patho 409 432	Contractures spastiques
+T11	patho 454 481	infirmité motrice cérébrale
+T12	patho 493 520	accident cérébro-vasculaire
+T13	patho 522 551	maladie cérébrale néoplasique
+T14	patho 572 593	Spasticité musculaire
+T15	patho 613 643	maladies de la moelle épinière
+T16	patho 725 744	sclérose en plaques
+T17	patho 750 777	paralysie spinale spastique
+T18	patho 783 814	sclérose latérale amyotrophique
+T19	patho 820 833	syringomyélie
+T20	patho 839 857	myélite transverse
+T21	patho 207 218	infectieuse
+T22	patho 220 232	dégénérative
+T23	patho 234 245	traumatique
+T24	patho 247 258	néoplasique
+T25	patho 522 539;555 567	maladie cérébrale dégénérative
+T26	patho 654 665	infectieuse
+T27	patho 666 678	dégénérative
+T28	patho 680 691	traumatique
+T29	patho 693 704	néoplasique

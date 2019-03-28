@@ -1,0 +1,129 @@
+T1	patho 4 23	effets indésirables
+T2	patho 24 33	Infection
+T3	patho 37 49	infestations
+T4	patho 65 110	Infection des voies respiratoires supérieures
+T5	patho 111 162	Affections hématologiques et du système lymphatique
+T6	patho 207 240	Affections du système immunitaire
+T7	patho 276 301	réactions anaphylactoïdes
+T8	patho 248 273	réactions anaphylactiques
+T9	patho 312 321	urticaire
+T10	patho 326 347	Réactions allergiques
+T11	patho 358 364	prurit
+T12	patho 367 409	Troubles du métabolisme et de la nutrition
+T13	patho 426 441	Perte d'appétit
+T14	patho 442 467	Affections psychiatriques
+T15	patho 484 500	Cris inhabituels
+T16	patho 502 514	irritabilité
+T17	patho 516 525	agitation
+T18	patho 537 546	Nervosité
+T19	patho 547 576	Affections du système nerveux
+T20	patho 592 602	Somnolence
+T21	patho 609 618	Collapsus
+T22	patho 622 634	état de choc
+T23	patho 646 670	hypotonie-hyporéactivité
+T24	patho 686 697	Convulsions
+T25	patho 712 718	fièvre
+T26	patho 720 774	Affections respiratoires, thoraciques et médiastinales
+T27	patho 790 794	Toux
+T28	patho 802 811	Bronchite
+T29	patho 813 818	apnée
+T31	patho 959 989	Affections gastro-intestinales
+T32	patho 1001 1009	Diarrhée
+T33	patho 1011 1023	vomissements
+T34	patho 1024 1071	Affections de la peau et du tissu sous - cutané
+T35	patho 1079 1095	Eruption cutanée
+T36	patho 1121 1130	Dermatite
+T37	patho 1131 1186	Troubles généraux et anomalies au site d'administration
+T38	patho 1203 1209	fièvre
+T39	patho 1219 1229	gonflement
+T40	trt 1248 1257	injection
+T41	patho 1269 1276	fatigue
+T42	patho 1278 1285	douleur
+T43	patho 1286 1293	rougeur
+T44	patho 1305 1311	fièvre
+T45	patho 1326 1355	réactions au site d'injection
+T47	patho 1366 1376	induration
+T48	patho 1378 1388	gonflement
+T49	trt 1408 1417	injection
+T50	patho 1448 1465	Gonflement diffus
+T51	proc 1476 1483	vacciné
+T52	patho 1542 1552	gonflement
+T53	proc 1563 1570	vacciné
+T54	patho 1594 1625	réactions de gonflement étendu2
+T55	patho 1627 1653	nodule au site d'injection
+T57	trt 1722 1753	vaccin coquelucheux acellulaire
+T58	patho 1787 1802	réaction locale
+T59	patho 1806 1816	gonflement
+T60	trt 1897 1933	vaccin coquelucheux à germes entiers
+T61	patho 1942 1950	réaction
+T62	duree 1975 1982	4 jours
+T63	patho 1987 2006	effets indésirables
+T64	patho 2189 2200	Convulsions
+T65	patho 2215 2221	fièvre
+T66	trt 2419 2432	Infanrix hexa
+T67	trt 2291 2302	Prevenar 13
+T68	trt 2336 2349	Infanrix hexa
+T69	proc 2401 2409	vaccinés
+T71	trt 2436 2444	Prevenar
+T72	patho 2514 2520	fièvre
+T73	trt 2585 2593	Prevenar
+T74	trt 2597 2610	Infanrix hexa
+T75	trt 2673 2690	vaccin hexavalent
+T76	patho 2702 2708	fièvre
+T77	trt 2793 2806	Infanrix hexa
+T78	trt 2820 2828	Prevenar
+T79	patho 2935 2941	fièvre
+T80	trt 2989 2996	vaccins
+T81	proc 3000 3016	primovaccination
+T82	patho 3119 3125	fièvre
+T83	trt 3181 3194	Infanrix hexa
+T84	trt 3209 3230	vaccin pneumococcique
+T85	proc 3313 3321	vaccinés
+T86	trt 3374 3387	Infanrix hexa
+T87	trt 3396 3439	vaccin rougeole-oreillons-rubéole-varicelle
+T88	patho 3452 3458	fièvre
+T89	trt 3535 3546	vaccin RORV
+T90	trt 3550 3563	Infanrix hexa
+T91	trt 3608 3621	Infanrix hexa
+T92	trt 3660 3671	vaccin RORV
+T93	patho 3683 3700	fièvre supérieure
+T94	trt 3756 3769	Infanrix hexa
+T95	trt 3778 3789	vaccin RORV
+T96	trt 3835 3848	Infanrix hexa
+T97	trt 3887 3898	vaccin RORV
+T98	trt 4022 4035	Infanrix hexa
+T100	duree 4130 4149	de 24 à 36 semaines
+T101	proc 4172 4188	primovaccination
+T102	patho 4516 4521	apnée
+T103	trt 4549 4575	vaccin contre l'hépatite B
+T104	patho 4648 4669	Réactions allergiques
+T105	patho 4680 4695	maladie sérique
+T106	patho 4697 4706	paralysie
+T107	patho 4708 4719	neuropathie
+T108	patho 4721 4728	névrite
+T109	patho 4730 4741	hypotension
+T110	patho 4743 4754	vascularite
+T111	patho 4756 4767	lichen plan
+T112	patho 4769 4788	érythème polymorphe
+T113	patho 4790 4798	arthrite
+T114	patho 4800 4820	faiblesse musculaire
+T115	patho 4822 4848	syndrome de Guillain-Barré
+T116	patho 4850 4865	encéphalopathie
+T117	patho 4867 4878	encéphalite
+T118	patho 4882 4891	méningite
+T119	trt 4923 4929	vaccin
+T120	patho 4967 4986	effets indésirables
+T121	patho 5016 5035	effets indésirables
+T122	trt 5068 5078	médicament
+T123	proc 5112 5124	surveillance
+T124	trt 5164 5174	médicament
+T125	patho 5234 5251	effet indésirable
+T126	patho 189 205	thrombocytopénie
+T127	patho 170 186	Lymphadénopathie
+T128	patho 883 888	apnée
+T129	patho 1097 1107	angioedème
+T46	patho 1656 1685	vésicules au site d'injection
+T56	proc 1700 1713	primovaccinés
+T130	proc 1875 1888	primovaccinés
+T70	trt 3441 3445	RORV
+T30	trt 1852 1858	rappel

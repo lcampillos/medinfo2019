@@ -1,0 +1,92 @@
+T1	patho 5 24	effets indésirables
+T2	trt 192 228	vaccins Diphtérie Tétanos Coqueluche
+T5	trt 243 287	vaccins combinés contenant les valences DTCa
+T6	patho 343 349	fièvre
+T7	proc 374 385	vaccination
+T8	trt 400 413	INFANRIXTETRA
+T9	proc 428 444	primovaccination
+T10	patho 457 476	effets indésirables
+T11	patho 727 746	effets indésirables
+T12	patho 830 881	Affections hématologiques et du système lymphatique
+T13	patho 889 905	lymphadénopathie
+T14	patho 908 937	Affections du système nerveux
+T15	patho 955 965	somnolence
+T16	patho 967 976	céphalées
+T17	age 986 1004	âgés de 6 à 13 ans
+T18	patho 1007 1061	Affections respiratoires, thoraciques et médiastinales
+T19	patho 1088 1118	Affections gastro-intestinales
+T20	patho 1131 1139	diarrhée
+T21	patho 1141 1153	vomissements
+T22	patho 1155 1162	nausées
+T23	patho 1163 1208	Affections de la peau et du tissu sous-cutané
+T24	patho 1224 1244	dermatite allergique
+T25	patho 1246 1263	éruption cutanée1
+T26	patho 1271 1277	prurit
+T27	patho 1279 1288	urticaire
+T28	patho 1289 1331	Troubles du métabolisme et de la nutrition
+T29	patho 1348 1363	perte d'appétit
+T30	patho 1364 1419	Troubles généraux et anomalies au site d'administration
+T31	patho 1437 1443	fièvre
+T32	patho 1452 1459	douleur
+T33	patho 1461 1468	rougeur
+T34	patho 1472 1502	gonflement au site d'injection
+T36	patho 1516 1522	fièvre
+T37	patho 1535 1542	malaise
+T38	patho 1544 1573	réactions au site d'injection
+T40	patho 1587 1597	induration
+T41	patho 1599 1607	asthénie
+T42	patho 1610 1635	Affections psychiatriques
+T43	patho 1653 1669	cris inhabituels
+T44	patho 1671 1683	irritabilité
+T45	patho 1685 1694	agitation
+T46	patho 1700 1710	gonflement
+T47	proc 1728 1735	vacciné
+T48	patho 1753 1763	gonflement
+T49	patho 1800 1817	gonflement diffus
+T50	trt 1908 1921	INFANRIXTETRA
+T51	trt 1995 2008	INFANRIXTETRA
+T52	age 2080 2097	âgés de 4 à 6 ans
+T53	patho 2102 2112	gonflement
+T54	trt 2131 2140	injection
+T55	patho 2206 2215	réactions
+T56	patho 2248 2276	gonflements de grande taille
+T57	trt 2336 2345	injection
+T58	patho 2426 2443	gonflement diffus
+T59	proc 2454 2461	vacciné
+T60	patho 2518 2527	réactions
+T61	duree 2559 2568	48 heures
+T62	proc 2580 2591	vaccination
+T63	patho 2629 2637	séquelle
+T64	duree 2641 2648	4 jours
+T65	patho 2693 2744	Affections hématologiques et du système lymphatique
+T66	patho 2764 2793	Affections du système nerveux
+T67	patho 2794 2803	Collapsus
+T68	patho 2814 2826	état de choc
+T69	patho 2838 2862	hypotonie-hyporéactivité
+T70	patho 2865 2876	convulsions
+T71	patho 2891 2897	fièvre
+T72	duree 2908 2920	2 ou 3 jours
+T73	proc 2932 2943	vaccination
+T74	patho 2946 3000	Affections respiratoires, thoraciques et médiastinales
+T75	patho 3009 3054	Affections de la peau et du tissu sous-cutané
+T76	patho 3055 3065	Angioedème
+T77	patho 3069 3124	Troubles généraux et anomalies au site d'administration
+T79	patho 3157 3190	Affections du système immunitaire
+T80	patho 3191 3212	réactions allergiques
+T81	patho 3226 3235;3256 3271	réactions anaphylactoïdes
+T82	patho 3226 3251	réactions anaphylactiques
+T83	trt 3354 3361	vaccins
+T84	trt 3294 3301	vaccins
+T85	patho 3459 3478	effets indésirables
+T86	patho 3410 3429	effets indésirables
+T87	trt 3511 3521	médicament
+T88	proc 3555 3567	surveillance
+T89	trt 3607 3617	médicament
+T90	patho 3663 3680	effet indésirable
+T91	trt 3763 3773	médicament
+T92	trt 230 234	DTCa
+T3	patho 1081 1085	toux
+T4	patho 1069 1078	bronchite
+T35	patho 2745 2761	Thrombocytopénie
+T39	patho 3001 3006	Apnée
+T78	patho 3125 3154	Vésicules au site d'injection

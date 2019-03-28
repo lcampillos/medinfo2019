@@ -1,0 +1,92 @@
+T1	patho 5 24	effets indésirables
+T2	patho 29 48	effets indésirables
+T3	trt 435 441	vaccin
+T4	patho 451 489	réactions locales au point d'injection
+T6	patho 491 498	douleur
+T7	patho 500 508	érythème
+T8	patho 510 520	induration
+T9	patho 524 530	oedème
+T10	patho 602 611	réactions
+T11	duree 645 654	48 heures
+T12	trt 665 674	injection
+T13	duree 689 700	1 à 2 jours
+T15	proc 1237 1248	vaccination
+T16	patho 1332 1383	Affections hématologiques et du système lymphatique
+T17	patho 1399 1416	lymphadénopathies
+T18	patho 1419 1452	Affections du système immunitaire
+T19	patho 1478 1516	Réactions d'hypersensibilité immédiate
+T20	patho 1519 1536	oedème de Quincke
+T21	patho 1538 1561	réaction anaphylactique
+T22	patho 1565 1584	choc anaphylactique
+T23	patho 1587 1616	Affections du système nerveux
+T24	patho 1628 1637	céphalées
+T25	patho 1665 1676	convulsions
+T26	patho 1678 1704	syndrome de Guillain Barré
+T27	patho 1706 1736	neuropathie du plexus brachial
+T28	patho 1738 1749	paresthésie
+T29	patho 1753 1778	hypoesthésie transitoires
+T30	proc 1789 1796	vacciné
+T31	patho 1798 1816	syncope vasovagale
+T32	patho 1819 1859	Affections de l'oreille et du labyrinthe
+T33	patho 1871 1879	vertiges
+T34	patho 1882 1903	Affections cardiaques
+T35	patho 1929 1940	hypotension
+T36	patho 1943 1973	Affections gastro-intestinales
+T37	patho 1985 1992	nausées
+T38	patho 1994 2006	vomissements
+T39	patho 2034 2054	douleurs abdominales
+T40	patho 2056 2065	diarrhées
+T41	patho 2068 2113	Affections de la peau et du tissu sous-cutané
+T42	patho 2139 2148	réactions
+T43	patho 2157 2167	allergique
+T44	patho 2199 2203	rash
+T45	patho 2205 2211	prurit
+T46	patho 2213 2222	urticaire
+T47	patho 2224 2241	oedème de la face
+T48	patho 2266 2293	réaction d'hypersensibilité
+T49	patho 2296 2328	Affections musculo-squelettiques
+T50	patho 2359 2367	myalgies
+T51	patho 2377 2388	arthralgies
+T54	patho 2450 2505	Troubles généraux et anomalies au site d'administration
+T55	patho 2522 2539	réactions locales
+T56	patho 2541 2548	douleur
+T57	patho 2550 2558	érythème
+T58	patho 2560 2570	induration
+T59	patho 2572 2578	oedème
+T60	patho 2582 2609	nodule au point d'injection
+T62	patho 2623 2635	hyperthermie
+T63	patho 2653 2660	malaise
+T65	patho 2750 2756	oedème
+T67	patho 2860 2869	réactions
+T69	duree 2883 2897	24 à 72 heures
+T70	proc 2907 2918	vaccination
+T71	patho 2967 2975	érythème
+T72	patho 2977 2984	chaleur
+T73	patho 2986 2997	sensibilité
+T74	patho 3001 3028	douleur au site d'injection
+T76	duree 3067 3078	3 à 5 jours
+T78	patho 3101 3107	Pâleur
+T79	patho 3110 3118	Asthénie
+T80	duree 3164 3178	quelques jours
+T81	patho 3181 3189	Frissons
+T82	proc 3258 3269	vaccination
+T83	trt 3321 3337	vaccin tétanique
+T84	patho 3377 3394	réactions locales
+T85	trt 3455 3464	injection
+T86	trt 3486 3496	injections
+T87	patho 3515 3536	réactions systémiques
+T88	proc 3626 3660	rappels diphtériques et tétaniques
+T89	patho 3694 3713	effets indésirables
+T90	patho 3743 3762	effets indésirables
+T91	trt 3795 3805	médicament
+T92	proc 3839 3851	surveillance
+T93	trt 3891 3901	médicament
+T94	patho 3947 3964	effet indésirable
+T95	trt 4047 4057	médicament
+T5	patho 738 766	nodules au point d'injection
+T14	patho 974 997	événements indésirables
+T96	patho 2296 2306;2332 2343	Affections systémiques
+T97	patho 2416 2447	douleurs dans le membre vacciné
+T52	patho 2694 2723	réaction au point d'injection
+T53	patho 3081 3098	Abcès amicrobiens
+T61	patho 3192 3217	Symptômes pseudo-grippaux

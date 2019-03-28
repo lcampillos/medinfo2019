@@ -1,0 +1,19 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 35 41	vaccin
+T3	proc 62 72	prévention
+T4	patho 89 98	diphtérie
+T5	patho 103 110	tétanos
+T6	patho 118 128	coqueluche
+T7	patho 136 148	poliomyélite
+T8	patho 156 208	infections invasives à Haemophilus influenzae type b
+T10	patho 210 220	méningites
+T11	patho 222 233	septicémies
+T12	patho 235 245	cellulites
+T13	patho 247 256	arthrites
+T14	patho 258 270	épiglottites
+T15	proc 281 297	primovaccination
+T16	age 333 346	âge de 2 mois
+T17	age 365 379	âge de 11 mois
+T18	trt 385 391	vaccin
+T19	patho 418 428	infections
+T21	patho 491 501	méningites

@@ -1,0 +1,15 @@
+T1	patho 5 24	Effets indésirables
+T2	proc 141 149	vaccinés
+T3	trt 154 161	PRIORIX
+T4	patho 196 215	Effets indésirables
+T5	trt 258 311	vaccin combiné rougeoleux, des oreillons et rubéoleux
+T7	trt 369 388	vaccins monovalents
+T8	patho 456 475	signes et symptômes
+T9	duree 534 542	42 jours
+T10	proc 583 591	vaccinés
+T11	patho 661 680	Effets indésirables
+T12	trt 726 733	PRIORIX
+T13	patho 746 774	rougeurs au site d'injection
+T15	patho 784 790	fièvre
+T16	patho 857 876	Effets indésirables
+T17	patho 881 900	Effets indésirables

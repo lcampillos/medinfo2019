@@ -1,0 +1,10 @@
+T1	proc 17 31	thérapeutiques
+T2	trt 32 41	ENGERIX B
+T3	dose 42 57	10 microgrammes
+T4	proc 84 103	immunisation active
+T5	patho 113 122;133 161	infection par le virus de l'hépatite B
+T6	patho 358 368	hépatite D
+T7	proc 404 416	immunisation
+T8	trt 421 430	ENGERIX B
+T9	patho 434 444	hépatite D
+T10	patho 510 548	infection par le virus de l'hépatite B

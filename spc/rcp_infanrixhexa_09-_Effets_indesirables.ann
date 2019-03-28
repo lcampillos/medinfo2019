@@ -1,0 +1,11 @@
+T1	patho 3 22	Effets indésirables
+T2	trt 90 102	vaccins DTCa
+T3	trt 110 126	vaccins combinés
+T4	patho 210 216	fièvre
+T5	trt 251 264	Infanrix hexa
+T6	proc 282 298	primovaccination
+T7	patho 315 334	Effets indésirables
+T8	patho 378 397	Effets indésirables
+T9	patho 664 683	Effets indésirables
+T10	trt 701 711	médicament
+T11	proc 819 831	surveillance
